@@ -4,7 +4,9 @@ If you want to help me translate Navi please add a PR or send me a message on Tw
 
 Thanks!
 
-🇺🇸🇬🇧 - Jordi Bruin
 
-🇳🇱 - Jordi Bruin
-
+| Language      | Translator    | Twitter                               | Favorite Emoji |
+| ------------- |:-------------:| -------------------------------------:|------:|
+| English      | Jordi Bruin  | [Twitter](https://www.twitter.com)   | 😏
+| Dutch      | Jordi Bruin  | [Twitter](https://www.twitter.com)   | 😏
+| French      |   |   |
