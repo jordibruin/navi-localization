@@ -7,9 +7,9 @@
 */
 
 /* TRANSLATOR NAME AND INFO, PLEASE FILL THIS IN SO I CAN ADD YOU TO THE MAP */
-/* Translator name (Jordi Bruin)*/
-/* What city and country do you live in (Amsterdam, Netherlands) */
-/* what's your favorite emoji? (😘) */
+/* Translator name (Gualtiero Frigerio)*/
+/* What city and country do you live in (Milan, Italy) */
+/* what's your favorite emoji? (😎) */
 
 /* ONBOARDING */
 "Get Started" = "Inizia";
@@ -21,10 +21,10 @@
 "Microphone" = "Microfono";
 "Navi uses the microphone to listen to your voice when you are talking." = "Navi usa il microfono per ascoltare la tua voce mentre parli.";
 "Speech Recognition" = "Riconoscimento Vocale";
-"Navi uses Speech recognition to convert your words into subtitles." = "Navi usa il riconoscimento vocale per convertire le tue parole in sottotitoli";
+"Navi uses Speech recognition to convert your words into subtitles." = "Navi usa il Riconoscimento vocale per convertire le tue parole in sottotitoli";
 
 /* MICROPHONE PERMISSION */
-"To record your sentences for creating subtitles" = "Per registrare le tue frasi per creare sottotitoli";
+"To record your sentences for creating subtitles" = "Per registrare le tue parole per creare sottotitoli";
 "Microphone Access Denied" = "Accesso al Microfono Negato";
 "Navi needs access to your microphone to generate subtitles. Please give access to your microphone in your settings." = "Navi ha bisogno del microfono per generare sottotitoli. Per favore dai accesso al microfono nelle impostazioni";
 
@@ -41,7 +41,7 @@
 "Skip anyway" = "Salta comunque";
 
 /* DISPLAY NAME */
-"Display Name" = "NomeVvisualizzato";
+"Display Name" = "Nome Visualizzato";
 "The name that is displayed alongside your subtitles" = "Il nome visualizzato di fianco ai sottotitoli.";
 
 /* LANGAUGE */
@@ -61,7 +61,7 @@
 
 "Privacy Policy" = "Informativa Privacy";
 "You can read Navi's Privacy Policy [here](URL GOES HERE)" = "Puoi leggere l'informativa privacy [qui](URL GOES HERE). In breve vogliamo sapere il meno possibile su di te.";
-"Email Us" = "Inviaci una mail";
+"Email Us" = "Mandaci una mail";
 
 
 /* SETTINGS */
@@ -72,7 +72,7 @@
 "Translators" = "Traduttori";
 "Special thanks to" = "Un ringraziamento speciale a";
 "Review Navi" = "Scrivi una recensione su Navi";
-"Show Onboarding" = "Mostra Onboarding";
+"Show Onboarding" = "Mostra Introduzione";
 
 "Subtitles" = "Sottotitoli";
 "Show own transcription" = "Mostra la tua trascrizione";
@@ -101,7 +101,7 @@
 
 "Good morning" = "Buongiorno";
 "Good afternoon" = "Buon pomeriggio";
-"Good evening" = "Buona sera";
+"Good evening" = "Buonasera";
 "Maybe Later" = "Forse più tardi";
 "Your Tokens" = "I tuoi Gettoni";
 "%@ tokens" = "%@ Gettoni";
