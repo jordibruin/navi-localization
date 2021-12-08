@@ -7,6 +7,6 @@ Thanks!
 
 | Language      | Translator    | Twitter                               | Favorite Emoji |
 | ------------- |:-------------:| -------------------------------------:|------:|
-| English      | Jordi Bruin  | [Twitter](https://www.twitter.com)   | 😏
-| Dutch      | Jordi Bruin  | [Twitter](https://www.twitter.com)   | 😏
-| French      |   |   |
+| 🇬🇧 English      | Jordi Bruin  | [Twitter](https://www.twitter.com)   | 😏
+| 🇳🇱 Dutch      | Jordi Bruin  | [Twitter](https://www.twitter.com)   | 😏
+| 🇫🇷 French      |   |   |
