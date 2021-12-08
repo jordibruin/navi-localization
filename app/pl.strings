@@ -1,0 +1,146 @@
+/*
+  Localizable.strings
+  Navi
+
+  Created by Jordi Bruin on 08/12/2021.
+  
+*/
+
+/* TRANSLATOR NAME AND INFO, PLEASE FILL THIS IN SO I CAN ADD YOU TO THE MAP */
+/* Translator name (royal)*/
+/* What city and country do you live in (Krakow, Poland) */
+/* what's your favorite emoji? (☔️) */
+
+/* ONBOARDING */
+"Get Started" = "Zaczynamy";
+"Allow" = "Pozwól";
+"Allowed" = "Pozwolono";
+"Denied" = "Odmówiono";
+
+/* PERMISSIONS */
+"Microphone" = "Mikrofon";
+"Navi uses the microphone to listen to your voice when you are talking." = "Navi używa mikrofonu żeby słyszeć jak mówisz.";
+"Speech Recognition" = "Rozpoznawanie mowy";
+"Navi uses Speech recognition to convert your words into subtitles." = "Navi używa rozpoznawania mowy aby zamieniać twoje słowa na napisy.";
+
+/* MICROPHONE PERMISSION */
+"To record your sentences for creating subtitles" = "Aby nagrywać twoje słowa do tworzenia napisów";
+"Microphone Access Denied" = "Dostęp do mikrofonu odrzucony";
+"Navi needs access to your microphone to generate subtitles. Please give access to your microphone in your settings." = "Navi używa mikrofonu w celu tworzenia napisów. Zezwól na użycie mikrofonu w ustawieniach.";
+
+/* SPEECH RECOGNITION PERMISSION */
+"To convert what you are saying into subtitles" = "Aby zamienić twoje słowa w napisy";
+"Speech Recognition Denied" = "Dostęp do rozpoznawania mowy odrzucony";
+"Navi uses Speech Recognition to generate subtitles. Please give access to Speech Recognition in your settings." = "Navi używa rozpoznawania mowy w celu tworzenia napisów. Zezwól na użycie rozpoznawania mowy w ustawieniach.";
+"Open Settings" = "Otwórz ustawienia";
+
+/* SKIP BUTOTN ON PERMISSION PAGE */
+"Skip" = "Pomiń";
+"Permissions" = "Uprawnienia";
+"Navi requires microphone and speech to text permission to create subtitles. Without it Navi won't work properly." = "Navi potrzebuje dostępu do mikrofonu i rozpoznawania mowy w celu tworzenia napisów. Bez nich Navi nie będzie działać poprawnie.";
+"Skip anyway" = "Pomiń";
+
+/* DISPLAY NAME */
+"Display Name" = "Imię";
+"The name that is displayed alongside your subtitles" = "Nazwa wyświetlana przy twoich napisach";
+
+/* LANGAUGE */
+"The language that you will be talking in." = "Język w którym będziesz mówic.";
+
+/* HOME SCREEN */
+"You're ready for your first call!" = "Przygotowano na twoją pierwszą rozmowę!";
+"Invite your friends and call them with FaceTime to enable subtitles." = "Zaproś swoich znajomych i zadzwoń do nich przez FaceTime aby włączyć napisy.";
+"How to use Navi" = "Jak używać Navi";
+"Share" = "Udostępnij";
+
+/* SUPPORT */
+"Support" = "Wsparcie";
+"How to enable subtitles" = "Jak włączyć napisy";
+"What languages are supported?" = "Jakie języki są wspierane?";
+"Navi works in %@" = "Navi działa po %@";
+
+"Privacy Policy" = "Polityka prywatności";
+"You can read Navi's Privacy Policy [here](URL GOES HERE)" = "Możesz sprawdzic politykę prywatności Navi [tutaj](URL GOES HERE). W skrócie, chcemy wiedzieć o tobie jak najmniej.";
+"Email Us" = "Wyślij nam email";
+
+
+/* SETTINGS */
+"Settings" = "Ustawienia";
+"Language" = "Język";
+"Make sure the language matches the language you are speaking in, otherwise the generated subtitles will be inaccurate." = "Upewnij się że ustawiony język zgadza się z twoim językiem - w innym wypadku, napisy nie będą poprawne.";
+
+"Translators" = "Tłumacze";
+"Special thanks to" = "Specjalne podziękowania dla";
+"Review Navi" = "Oceń Navi";
+"Show Onboarding" = "Pokaż ekran powitalny";
+
+"Subtitles" = "Napisy";
+"Show own transcription" = "Wyświetl własne transkrypcje";
+"Large subtitles" = "Duże napisy";
+"Display your own transcription and choose the size of the incoming subtitles." = "Wyświetl własną transkrypcję i wybierz rozmiar nadchodzących napisów.";
+
+"Translation" = "Tłumaczenie";
+"Live Translation" = "Tłumaczenie na żywo";
+"Realtime Translation" = "Tłumaczenie na bieżąco";
+"Translate subtitles as soon as they come in. This requires a lot more Translation Tokens." = "Tłumacz na bieżąco. Wymaga to znacznie więcej tokenów tłumaczenia";
+
+
+/* UNLIMITED SUBTITLES */
+"Unlimited Subtitles" = "Nielimitowane napisy";
+"Get Unlimited Subtitles" = "Zdobądź nielimitowane napisy";
+"Enable subtitles on all your FaceTime calls" = "Włącz napisy we wszystkich połączeniach FaceTime";
+"Restore Purchases" = "Przywróć zakupy";
+
+/* LIVE TRANSLATION */
+"Live Translation" = "Tłumaczneie na żywo";
+"Talk to anyone, in any language. Translate what other people are saying instantly!" = "Rozmawiaj z kim chcesz, w każdym języku. Natychmiastowo tłumacz to co mówią inni!";
+
+"Every character that needs to be translated uses one token" = "Każdy znak do przetłumaczenia zużywa jeden token";
+
+"How many tokens do I need?" = "Jak dużo tokenów potrzebuję?";
+
+"Good morning" = "Dzień dobry";
+"Good afternoon" = "Dzień dobry";
+"Good evening" = "Dobry wieczór";
+"Maybe Later" = "Może później";
+"Your Tokens" = "Twoje tokeny";
+"%@ tokens" = "%@ tokenów";
+
+"Trial Pack" = "Paczka testowa";
+"Small Pack" = "Mała paczka";
+"Large Pack" = "Duża paczka";
+"Business Pack" = "Mega paka";
+
+"Token Calculator" = "Kalkulator tokenów";
+"Words" = "Słów";
+"Words per minute" = "Słów na minutę";
+"Characters" = "Znaków";
+"Characters per minute" = "Znaków na minutę";
+"per minute" = "na minutę";
+"per 30 minutes" = "na 30 minut";
+
+"Start Calculator" = "Włącz kalkulator";
+"Stop Calculator" = "Zatrzymaj kalkulator";
+
+"Start the calculator and speak at your normal pace to determine how many characters you speak in an average conversation." = "Włącz kalkulator i mów z normalną prędkością aby zobaczyć ile znaków wymawiasz w normalnej konwersacji.";
+
+/* SUBTITLES PAGE */
+"Nobody has said anything yet" = "Nikt nic jeszcze nie powiedział";
+"Subtitles will appear here when someone starts talking" = "Napisy pojawią się tutaj, kiedy ktoś zacznie coś mówić";
+
+"Enable Translation" = "Włącz tłumaczenie";
+"Disable Translation" = "Wyłącz tłumaczenie";
+"Manage Languages" = "Zarządzaj językami";
+
+"Get Translate Tokens" = "Zdobądź tokeny tłumaczenia";
+"Tokens: %@" = "Tokeny: %@";
+
+"Favorite Languages" = "Ulubione języki";
+"All languages" = "Wszystkie języki";
+"Your favorites can quickly be selected from the language button" = "Wybierz ulubione poprzez przycisk języków";
+
+"Stop SharePlay" = "Zatrzymaj SharePlay";
+"Disable Subtitles" = "Wyłącz napisy";
+
+"Waiting for others to join" = "Oczekiwanie na innych";
+"Other people on the FaceTime call have to open Navi before their subtitles appear here." = "Inni uczestnicy połączenia FaceTime muszą otworzyć Navi aby pojawiły się tutaj ich napisy.";
