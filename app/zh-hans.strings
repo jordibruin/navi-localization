@@ -1,0 +1,146 @@
+/*
+  Localizable.strings
+  Navi
+
+  Created by Jordi Bruin on 08/12/2021.
+  
+*/
+
+/* TRANSLATOR NAME AND INFO, PLEASE FILL THIS IN SO I CAN ADD YOU TO THE MAP */
+/* Translator name (Qifan Zhang)*/
+/* What city and country do you live in (Hangzhou, China) */
+/* what's your favorite emoji? (🍅) */
+
+/* ONBOARDING */
+"Get Started" = "开始使用";
+"Allow" = "允许";
+"Allowed" = "被允许";
+"Denied" = "被禁止";
+
+/* PERMISSIONS */
+"Microphone" = "麦克风";
+"Navi uses the microphone to listen to your voice when you are talking." = "Navi 会在你讲话时使用麦克风来收听你的声音。";
+"Speech Recognition" = "语音识别";
+"Navi uses Speech recognition to convert your words into subtitles." = "Navi 会使用语音识别将你说的话转换成字幕。";
+
+/* MICROPHONE PERMISSION */
+"To record your sentences for creating subtitles" = "录制你说的话来生成字幕";
+"Microphone Access Denied" = "无法获取麦克风使用权限";
+"Navi needs access to your microphone to generate subtitles. Please give access to your microphone in your settings." = "Navi 需要访问你的麦克风来生成字幕。请在系统设置中打开访问麦克风权限";
+
+/* SPEECH RECOGNITION PERMISSION */
+"To convert what you are saying into subtitles" = "将你所说的内容转换成字幕";
+"Speech Recognition Denied" = "无法获取语音识别访问权限";
+"Navi uses Speech Recognition to generate subtitles. Please give access to Speech Recognition in your settings." = "Navi 使用语音识别以生成字幕。请在你的系统设置中打开语音识别访问权限。";
+"Open Settings" = "打开设置";
+
+/* SKIP BUTOTN ON PERMISSION PAGE */
+"Skip" = "跳过";
+"Permissions" = "权限";
+"Navi requires microphone and speech to text permission to create subtitles. Without it Navi won't work properly." = "Navi 需要麦克风和语音识别权限来生成字幕。禁用它们 Navi 将无法正常使用。";
+"Skip anyway" = "仍然跳过";
+
+/* DISPLAY NAME */
+"Display Name" = "显示名称";
+"The name that is displayed alongside your subtitles" = "此名称会显示在你的字幕旁边。";
+
+/* LANGAUGE */
+"The language that you will be talking in." = "你将使用何种语言来说话。";
+
+/* HOME SCREEN */
+"You're ready for your first call!" = "一切就绪，去拨打你的第一通电话吧！";
+"Invite your friends and call them with FaceTime to enable subtitles." = "邀请你的朋友并使用 FaceTime 进行通话以启用字幕。";
+"How to use Navi" = "如何使用 Navi";
+"Share" = "分享";
+
+/* SUPPORT */
+"Support" = "帮助";
+"How to enable subtitles" = "如何启用字幕";
+"What languages are supported?" = "支持哪些语言？";
+"Navi works in %@" = "Navi 支持 %@";
+
+"Privacy Policy" = "隐私政策";
+"You can read Navi's Privacy Policy [here](URL GOES HERE)" = "你可以浏览 Navi 的隐私政策内容 [点击此处](URL GOES HERE). 简而言之，我们希望尽可能少地去了解有关你的信息。";
+"Email Us" = "给我们发邮件";
+
+
+/* SETTINGS */
+"Settings" = "设置";
+"Language" = "语言";
+"Make sure the language matches the language you are speaking in, otherwise the generated subtitles will be inaccurate." = "请确保语言设置与你说的语言相匹配，否则生成的字幕内容将会不准确。";
+
+"Translators" = "翻译人员";
+"Special thanks to" = "特别感谢";
+"Review Navi" = "给 Navi 评分";
+"Show Onboarding" = "展示欢迎内容";
+
+"Subtitles" = "字幕";
+"Show own transcription" = "显示自己所说的内容";
+"Large subtitles" = "更大字幕";
+"Display your own transcription and choose the size of the incoming subtitles." = "显示你所说的内容，并选择字幕文字的大小。";
+
+"Translation" = "翻译";
+"Live Translation" = "实时翻译";
+"Realtime Translation" = "即时翻译";
+"Translate subtitles as soon as they come in. This requires a lot more Translation Tokens." = "即时生成翻译后的字幕内容，这需要更多的翻译代币。";
+
+
+/* UNLIMITED SUBTITLES */
+"Unlimited Subtitles" = "无限字幕";
+"Get Unlimited Subtitles" = "获得无限字幕";
+"Enable subtitles on all your FaceTime calls" = "在你的所有 FaceTime 通话中启用字幕";
+"Restore Purchases" = "恢复购买";
+
+/* LIVE TRANSLATION */
+"Live Translation" = "实时翻译";
+"Talk to anyone, in any language. Translate what other people are saying instantly!" = "使用任何语言，与任何人交流。即时翻译他人所说的内容！";
+
+"Every character that needs to be translated uses one token" = "每一个需要翻译的字符都会消耗一枚代币";
+
+"How many tokens do I need?" = "我需要多少代币？";
+
+"Good morning" = "早上好";
+"Good afternoon" = "下午好";
+"Good evening" = "晚上好";
+"Maybe Later" = "也许以后";
+"Your Tokens" = "你的代币";
+"%@ tokens" = "%@ 代币";
+
+"Trial Pack" = "试用包";
+"Small Pack" = "小型包";
+"Large Pack" = "大型包";
+"Business Pack" = "超大型包";
+
+"Token Calculator" = "代币计算器";
+"Words" = "文字";
+"Words per minute" = "每分钟字数";
+"Characters" = "字符";
+"Characters per minute" = "每分钟字符数";
+"per minute" = "每分钟";
+"per 30 minutes" = "每三十分钟";
+
+"Start Calculator" = "启用计算器";
+"Stop Calculator" = "停用计算器";
+
+"Start the calculator and speak at your normal pace to determine how many characters you speak in an average conversation." =  "启用计算器并用常规语速说话，计算器会计算出你在一次对话中平均会说多少个字。";
+
+/* SUBTITLES PAGE */
+"Nobody has said anything yet" = "目前无人说话";
+"Subtitles will appear here when someone starts talking" = "当有人开始说话时，字幕会显示在此处。";
+
+"Enable Translation" = "启用翻译";
+"Disable Translation" = "停用翻译";
+"Manage Languages" = "管理语言";
+
+"Get Translate Tokens" = "获取翻译代币";
+"Tokens: %@" = "代币数量: %@";
+
+"Favorite Languages" = "语言偏好";
+"All languages" = "所有语言";
+"Your favorites can quickly be selected from the language button" = "你可以从语言按钮中快速选择你的语言偏好";
+
+"Stop SharePlay" = "停止 SharePlay";
+"Disable Subtitles" = "关闭字幕";
+
+"Waiting for others to join" = "等待其他人加入";
+"Other people on the FaceTime call have to open Navi before their subtitles appear here." = "FaceTime 通话中的其他人必须先启动 Navi，他们的字幕才会显示在此。";
