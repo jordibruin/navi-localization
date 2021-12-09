@@ -146,3 +146,11 @@
 "Waiting for others to join" = "Waiting for others to join";
 "Other people on the FaceTime call have to open Navi before their subtitles appear here." = "Other people on the FaceTime call have to open Navi before their subtitles appear here.";
 
+/* ERRORS */
+"Something went wrong" = "Something went wrong";
+
+"Please try again later" = "Please try again later"; 
+"Not enough translation tokens" = "Not enough translation tokens";
+"Get more" = "Get more";
+"Translation Error" = "Translation Error";
+"No purchases could be found for your account" = "No purchases could be found for your account";
