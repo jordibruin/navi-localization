@@ -1,0 +1,148 @@
+/*
+  Localizable.strings
+  Navi
+
+  Created by Jordi Bruin on 08/12/2021.
+  
+*/
+
+/* TRANSLATOR NAME AND INFO, PLEASE FILL THIS IN SO I CAN ADD YOU TO THE MAP */
+/* Translator name (Brian Dinsen)*/
+/* What city and country do you live in (Horsens, Denmark) */
+/* what's your favorite emoji? (🙈) */
+
+/* ONBOARDING */
+"Get Started" = "Begynd nu";
+"Allow" = "Tillad";
+"Allowed" = "Tilladt";
+"Denied" = "Afvist";
+"Continue" = "Fortsæt";
+
+/* PERMISSIONS */
+"Microphone" = "Mikrofon";
+"Navi uses the microphone to listen to your voice when you are talking." = "Navi bruger mikrofonen til at lytte efter din stemme, når du snakker.";
+"Speech Recognition" = "Talegenkendelse";
+"Navi uses Speech recognition to convert your words into subtitles." = "Navi bruger talegenkendelse til at lave dine ord om til undertekster.";
+
+/* MICROPHONE PERMISSION */
+"To record your sentences for creating subtitles" = "At optage dine sætninger for at lave undertekster";
+"Microphone Access Denied" = "Mikrofon adgang afvist";
+"Navi needs access to your microphone to generate subtitles. Please give access to your microphone in your settings." = "Navi har brug for adgang til din mikrofon for at lave undertekster. Du giver adgang til din mikrofon under indstillinger.";
+
+/* SPEECH RECOGNITION PERMISSION */
+"To convert what you are saying into subtitles" = "At omdanne det du siger til undertekster";
+"Speech Recognition Denied" = "Talegenkendelse afvist";
+"Navi uses Speech Recognition to generate subtitles. Please give access to Speech Recognition in your settings." = "Navi bruger Talegenkendelse til at lave undertekster. Giv venligst adgang til Talegenkendelse under dine indstillinger.";
+"Open Settings" = "Åben indstillinger";
+
+/* SKIP BUTOTN ON PERMISSION PAGE */
+"Skip" = "Næste";
+"Permissions" = "Tilladelser";
+"Navi requires microphone and speech to text permission to create subtitles. Without it Navi won't work properly." = "Navi kræver mikrofon og tekst-til-tale tilladelse for at lave undertekster. Uden adgang vil Navi ikke virker efter hensigten.";
+"Skip anyway" = "Fortsæt alligevel";
+
+/* DISPLAY NAME */
+"Display Name" = "Brugernavn";
+"The name that is displayed alongside your subtitles" = "Det navn der bliver vist ved siden af dine undertekster";
+
+/* LANGAUGE */
+"The language that you will be talking in." = "Det sprog du vil tale i.";
+
+/* HOME SCREEN */
+"You're ready for your first call!" = "Du er klar til dit første opkald!";
+"Invite your friends and call them with FaceTime to enable subtitles." = "Inviter dine venner og ring til dem med FaceTime for at aktivere undertekster.";
+"How to use Navi" = "Sådan bruger du Navi";
+"Share" = "Del";
+
+/* SUPPORT */
+"Support" = "Support";
+"How to enable subtitles" = "Sådan aktiveres undertekster";
+"What languages are supported?" = "Hvilke sprog er understøttet? ";
+"Navi works in %@" = "Navi works in %@";
+
+"Privacy Policy" = "Privatlivspolitik";
+"You can read Navi's Privacy Policy [here](URL GOES HERE)" = "Du kan læse Navi's Privatlivspolitik [her](URL INDSÆTTES HER). I korte træk, vil vi vide så lidt som muligt om dig.";
+"Email Us" = "Email Os";
+
+
+/* SETTINGS */
+"Settings" = "Indstillinger";
+"Language" = "Sprog";
+"Make sure the language matches the language you are speaking in, otherwise the generated subtitles will be inaccurate." = "Sikre dig sprog passer med det sprog du vil tale i. Ellers vil underteksterne blive upræcise.";
+
+"Translators" = "Oversættere";
+"Special thanks to" = "Specielt tak til";
+"Review Navi" = "Bedøm Navi";
+"Show Onboarding" = "Vis Onboarding";
+
+"Subtitles" = "Undertekster";
+"Show own transcription" = "Vis egne transskription";
+"Large subtitles" = "Store undertekster";
+"Display your own transcription and choose the size of the incoming subtitles." = "Vis dine egne transskription og vælg størrelsen på indkomne undertekster.   Display your own transcription and choose the size of the incoming subtitles.";
+
+"Translation" = "Oversættelse";
+"Live Translation" = "Direkte oversættelse";
+"Realtime Translation" = "Oversættelse i realtid";
+"Translate subtitles as soon as they come in. This requires a lot more Translation Tokens." = "Oversæt undertekster lige så snart de kommer ind. Dette kræver en del flere Oversættelses Tokens.";
+
+
+/* UNLIMITED SUBTITLES */
+"Unlimited Subtitles" = "Ubegrænset undertekster";
+"Get Unlimited Subtitles" = "Få ubegrænset undertekster";
+"Enable subtitles on all your FaceTime calls" = "Slå undertekster til for alle dine FaceTime-opkald";
+"Restore Purchases" = "Gendan køb";
+
+/* LIVE TRANSLATION */
+"Live Translation" = "Direkte oversættelse";
+"Talk to anyone, in any language. Translate what other people are saying instantly!" = "Snak til alle på ethvert sprog. Oversæt hvad andre personer siger med det samme!";
+
+"Every character that needs to be translated uses one token" = "Hvert tegn der skal oversættes, bruger en token";
+
+"How many tokens do I need?" = "Hvor mange tokens har jeg brug for?";
+
+"Good morning" = "God morgen";
+"Good afternoon" = "Good eftermiddag";
+"Good evening" = "Good aften";
+"Maybe Later" = "Måske senere";
+"Your Tokens" = "Dine Tokens";
+"%@ tokens" = "%@ Tokens";
+
+"Trial Pack" = "Prøve pakke";
+"Small Pack" = "Lille pakke";
+"Large Pack" = "Stor pakke";
+"Business Pack" = "Kæmpe pakke";
+
+"Token Calculator" = "Token lommeregner";
+"Words" = "Ord";
+"Words per minute" = "Ord i minuttet";
+"Characters" = "Tegn";
+"Characters per minute" = "Tegn i minuttet";
+"per minute" = "i minuttet";
+"per 30 minutes" = "pr. 30 minutter";
+
+"Start Calculator" = "Start lommeregner";
+"Stop Calculator" = "Stop lommeregner";
+
+"Start the calculator and speak at your normal pace to determine how many characters you speak in an average conversation." =  "Start lommeregneren og tal i dit normale tempo, for at bestemme hvor mange tegn du brguer i en gennemsnitlig samtale.";
+
+/* SUBTITLES PAGE */
+"Nobody has said anything yet" = "Ingen har sagt noget endnu";
+"Subtitles will appear here when someone starts talking" = "Undertekster vises her, når nogen begynder at tale";
+
+"Enable Translation" = "Aktiver oversættelse";
+"Disable Translation" = "Deaktiver oversættelse";
+"Manage Languages" = "Administrer sprog";
+
+"Get Translate Tokens" = "Få oversæt tokens";
+"Tokens: %@" = "Tokens: %@";
+
+"Favorite Languages" = "Favorit sprog";
+"All languages" = "Alle sprog";
+"Your favorites can quickly be selected from the language button" = "Dine favoritter kan hurtigt vælges fra sprog knappen";
+
+"Stop SharePlay" = "Stop SharePlay";
+"Disable Subtitles" = "Deaktiver undertekster";
+
+"Waiting for others to join" = "Venter på andre deltagere";
+"Other people on the FaceTime call have to open Navi before their subtitles appear here." = "Andre personer i FaceTime-opkaldet skal åbne Navi, før deres undertekster vises her.";
+
