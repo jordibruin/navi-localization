@@ -10,3 +10,4 @@ Thanks!
 | 🇬🇧 English      | Jordi Bruin  | [Twitter](https://www.twitter.com)   | 😏
 | 🇳🇱 Dutch      | Jordi Bruin  | [Twitter](https://www.twitter.com)   | 😏
 | 🇫🇷 French      |   |   |
+| 🇷🇺 Russian      | Roman Mirzoyan |  [Twitter](https://www.twitter.com/ramzesenok) | 🥓
