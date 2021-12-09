@@ -1,0 +1,146 @@
+/*
+  Localizable.strings
+  Navi
+
+  Created by Nikolay Ukolov on 09/12/2021.
+  
+*/
+
+/* TRANSLATOR NAME AND INFO, PLEASE FILL THIS IN SO I CAN ADD YOU TO THE MAP */
+/* Translator name (Nikolay Ukolov)*/
+/* What city and country do you live in (Joensuu, Finland) */
+/* what's your favorite emoji? (👨‍💻) */
+
+/* ONBOARDING */
+"Get Started" = "Начать";
+"Allow" = "Разрешить";
+"Allowed" = "Разрешено";
+"Denied" = "Запрещено";
+
+/* PERMISSIONS */
+"Microphone" = "Микрофон";
+"Navi uses the microphone to listen to your voice when you are talking." = "Navi использует микрофон, чтобы слушать ваш голос, когда вы говорите.";
+"Speech Recognition" = "Распознавание речи";
+"Navi uses Speech recognition to convert your words into subtitles." = "Navi использует распознавание речи для преобразования ваших слов в субтитры.";
+
+/* MICROPHONE PERMISSION */
+"To record your sentences for creating subtitles" = "Для записи ваших предложений для создания субтитров";
+"Microphone Access Denied" = "Доступ к микрофону запрещен";
+"Navi needs access to your microphone to generate subtitles. Please give access to your microphone in your settings." = "Navi необходим доступ к микрофону для создания субтитров. Пожалуйста, предоставьте доступ к вашему микрофону в настройках.";
+
+/* SPEECH RECOGNITION PERMISSION */
+"To convert what you are saying into subtitles" = "Чтобы преобразовать то, что вы говорите, в субтитры";
+"Speech Recognition Denied" = "Распознавании речи запрещено";
+"Navi uses Speech Recognition to generate subtitles. Please give access to Speech Recognition in your settings." = "Navi использует распознавание речи для создания субтитров. Пожалуйста, предоставьте доступ к распознаванию речи в ваших настройках.";
+"Open Settings" = "Открыть настройки";
+
+/* SKIP BUTOTN ON PERMISSION PAGE */
+"Skip" = "Пропустить";
+"Permissions" = "Разрешения";
+"Navi requires microphone and speech to text permission to create subtitles. Without it Navi won't work properly." = "Для создания субтитров Navi требуется разрешение на разрешение микрофона и преобразование речи в текст. Без этого Navi не сможет работать должным образом.";
+"Skip anyway" = "Все равно пропустить";
+
+/* DISPLAY NAME */
+"Display Name" = "Показать имя";
+"The name that is displayed alongside your subtitles" = "Имя, которое отображается рядом с вашими субтитрами";
+
+/* LANGAUGE */
+"The language that you will be talking in." = "Язык, на котором вы будете говорить.";
+
+/* HOME SCREEN */
+"You're ready for your first call!" = "Вы готовы к первому звонку!";
+"Invite your friends and call them with FaceTime to enable subtitles." = "Пригласите своих друзей и позвоните им с помощью FaceTime, чтобы включить субтитры.";
+"How to use Navi" = "Как пользоваться Navi";
+"Share" = "Поделиться";
+
+/* SUPPORT */
+"Support" = "Служба поддержки";
+"How to enable subtitles" = "Как включить субтитры";
+"What languages are supported?" = "Какие языки поддерживаются?";
+"Navi works in %@" = "Navi поддерживает %@";
+
+"Privacy Policy" = "Политика конфиденциальности";
+"You can read Navi's Privacy Policy [here](URL GOES HERE)" = "Вы можете прочитать Политику конфиденциальности Navi [здесь] (URL ЗДЕСЬ). Короче говоря, мы хотим знать о вас как можно меньше.";
+"Email Us" = "Свяжитесь с нами по электронной почте";
+
+
+/* SETTINGS */
+"Settings" = "Настройки";
+"Language" = "Язык";
+"Make sure the language matches the language you are speaking in, otherwise the generated subtitles will be inaccurate." = "Убедитесь, что язык соответствует языку, на котором вы говорите, иначе сгенерированные субтитры будут неточными.";
+
+"Translators" = "Переводчики";
+"Special thanks to" = "Особая благодарность";
+"Review Navi" = "Оставить отзыв о Navi";
+"Show Onboarding" = "Показать экран приветствия";// meaning show onboarding screen.
+
+"Subtitles" = "Субтитры";
+"Show own transcription" = "Показать собственную транскрипцию";
+"Large subtitles" = "Большие субтитры";
+"Display your own transcription and choose the size of the incoming subtitles." = "Показать собственную транскрипцию и выбрать размер субтитров.";
+
+"Translation" = "Перевод";
+"Live Translation" = "Живой перевод";
+"Realtime Translation" = "Перевод в реальном времени";
+"Translate subtitles as soon as they come in. This requires a lot more Translation Tokens." = "Переводите субтитры, как только они отображаются. Для этого требуется намного больше токенов перевода.";
+
+
+/* UNLIMITED SUBTITLES */
+"Unlimited Subtitles" = "Неограниченное количество субтитров";
+"Get Unlimited Subtitles" = "Получите неограниченное количество субтитров";
+"Enable subtitles on all your FaceTime calls" = "Включите субтитры для всех звонков FaceTime";
+"Restore Purchases" = "Восстановить покупки";
+
+/* LIVE TRANSLATION */
+"Live Translation" = "Живой перевод";
+"Talk to anyone, in any language. Translate what other people are saying instantly!" = "Говорите с кем угодно на любом языке. Мгновенно переводите то, что говорят другие люди!";
+
+"Every character that needs to be translated uses one token" = "Каждый символ, который нужно перевести, использует один токен";
+
+"How many tokens do I need?" = "Сколько токенов мне нужно?";
+
+"Good morning" = "Доброе утро";
+"Good afternoon" = "Добрый день";
+"Good evening" = "Добрый вечер";
+"Maybe Later" = "Может быть позже";
+"Your Tokens" = "Ваши токены";
+"%@ tokens" = "%@ токенов";//TODO: In case if numbers of tokens may be one or 2/3/4 better to use "Number of tokens: " (Количество токенов: )
+
+"Trial Pack" = "Пробный пакет";
+"Small Pack" = "Маленький пакет";
+"Large Pack" = "Большой пакет";
+"Business Pack" = "Мега пакет";
+
+"Token Calculator" = "Калькулятор токенов";
+"Words" = "Слова";
+"Words per minute" = "Слов в минуту";
+"Characters" = "Символы";
+"Characters per minute" = "Символов в минуту";
+"per minute" = "в минуту";
+"per 30 minutes" = "за 30 минут";
+
+"Start Calculator" = "Запустить калькулятор";
+"Stop Calculator" = "Остановить калькулятор";
+
+"Start the calculator and speak at your normal pace to determine how many characters you speak in an average conversation." =  "Запустите калькулятор и говорите в обычном темпе, чтобы определить, сколько символов произносите в среднем разговоре.";
+
+/* SUBTITLES PAGE */
+"Nobody has said anything yet" = "Еще никто ничего не сказал";
+"Subtitles will appear here when someone starts talking" = "Здесь появятся субтитры, когда кто-то начнет говорить";
+
+"Enable Translation" = "Включить перевод";
+"Disable Translation" = "Отключить перевод";
+"Manage Languages" = "Управлять языками";
+
+"Get Translate Tokens" = "Получить токены перевода";
+"Tokens: %@" = "Токены: %@";
+
+"Favorite Languages" = "Избранные языки";
+"All languages" = "Все языки";
+"Your favorites can quickly be selected from the language button" = "Ваши избранные можно быстро выбрать с помощью кнопки выбора языка.";
+
+"Stop SharePlay" = "Остановить SharePlay";
+"Disable Subtitles" = "Отключить субтитры";
+
+"Waiting for others to join" = "Подождите пока другие присоединятся";
+"Other people on the FaceTime call have to open Navi before their subtitles appear here." = "Другие участники вызова FaceTime должны открыть Navi, прежде чем их субтитры появятся здесь.";
