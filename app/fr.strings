@@ -7,15 +7,16 @@
 */
 
 /* TRANSLATOR NAME AND INFO, PLEASE FILL THIS IN SO I CAN ADD YOU TO THE MAP */
-/* Translator name (Jordi Bruin)*/
-/* What city and country do you live in (Amsterdam, Netherlands) */
-/* what's your favorite emoji? (😘) */
+/* Translator name (Baptiste Faure) */
+/* What city and country do you live in (Lyon, France) */
+/* what's your favorite emoji? (✨) */
 
 /* ONBOARDING */
 "Get Started" = "Commencer";
 "Allow" = "Autoriser";
 "Allowed" = "Autorisé";
 "Denied" = "Refusé";
+"Continue" = "Continuer";
 
 /* PERMISSIONS */
 "Microphone" = "Microphone";
