@@ -2,6 +2,9 @@
 
 If you want to help me translate Navi please add a PR or send me a message on Twitter (www.twitter.com/jordibruin) or email me at jordi@goodsnooze.com! Please add your name, city and favorite emoji to the top of the file as well :) 
 
+Please translate the strings file in the app directory for the in-app strings.
+The support section contains only a few strings right now but I would appreciate it if you could translate those as well!
+
 Thanks!
 
 
