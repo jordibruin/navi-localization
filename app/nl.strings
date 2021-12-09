@@ -16,6 +16,7 @@
 "Allow" = "Toestaan";
 "Allowed" = "Toegestaan";
 "Denied" = "Geweigerd";
+"Continue" = "Verder";
 
 /* PERMISSIONS */
 "Microphone" = "Microfoon";
@@ -24,14 +25,14 @@
 "Navi uses Speech recognition to convert your words into subtitles." = "Navi gebruikt spraak herkenning om je ondertiteling te genereren.";
 
 /* MICROPHONE PERMISSION */
-"To record your sentences for creating subtitles" = "Om wat je zegt om te kunnne zetten in ondertiteling";
+"To record your sentences for creating subtitles" = "Om wat je zegt om te kunnen zetten naar ondertiteling";
 "Microphone Access Denied" = "Microfoon Toegang Geweigerd";
 "Navi needs access to your microphone to generate subtitles. Please give access to your microphone in your settings." = "Navi heeft toegang tot je microfoon nodig om ondertiteling te genereren. Geef toegang tot je microfoon in je instellingen.";
 
 /* SPEECH RECOGNITION PERMISSION */
-"To convert what you are saying into subtitles" = "To convert what you are saying into subtitles";
-"Speech Recognition Denied" = "Speech Recognition Denied";
-"Navi uses Speech Recognition to generate subtitles. Please give access to Speech Recognition in your settings." = "Navi gebruikt spraak herkennign om ondertiteling te genereren. Navi uses Speech Recognition to generate subtitles. Zet spraak herkenning voor Navi aan in je instellingen.";
+"To convert what you are saying into subtitles" = "Om wat je zegt om te kunnen zetten naar ondertiteling";
+"Speech Recognition Denied" = "Spraakherkenning Toegang Geweigerd";
+"Navi uses Speech Recognition to generate subtitles. Please give access to Speech Recognition in your settings." = "Navi gebruikt spraak herkenning om ondertiteling te genereren. Zet spraak herkenning voor Navi aan in je instellingen.";
 "Open Settings" = "Open instelligen";
 
 /* SKIP BUTOTN ON PERMISSION PAGE */
