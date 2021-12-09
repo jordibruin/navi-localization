@@ -16,6 +16,7 @@
 "Allow" = "Allow";
 "Allowed" = "Allowed";
 "Denied" = "Denied";
+"Continue" = "Continue";
 
 /* PERMISSIONS */
 "Microphone" = "Microphone";
@@ -144,3 +145,4 @@
 
 "Waiting for others to join" = "Waiting for others to join";
 "Other people on the FaceTime call have to open Navi before their subtitles appear here." = "Other people on the FaceTime call have to open Navi before their subtitles appear here.";
+
