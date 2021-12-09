@@ -16,6 +16,7 @@
 "Allow" = "Akzeptieren";
 "Allowed" = "Akzeptiert";
 "Denied" = "Abgelehnt";
+"Continue" = "Weiter";
 
 /* PERMISSIONS */
 "Microphone" = "Mikrofon";
