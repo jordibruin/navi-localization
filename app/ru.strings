@@ -16,6 +16,7 @@
 "Allow" = "Разрешить";
 "Allowed" = "Разрешено";
 "Denied" = "Запрещено";
+"Continue" = "Продолжить";
 
 /* PERMISSIONS */
 "Microphone" = "Микрофон";
