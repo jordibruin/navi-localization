@@ -16,6 +16,7 @@
 "Allow" = "允许";
 "Allowed" = "被允许";
 "Denied" = "被禁止";
+"Continue" = "继续";
 
 /* PERMISSIONS */
 "Microphone" = "麦克风";

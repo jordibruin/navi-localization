@@ -7,20 +7,20 @@
 */
 
 /* TRANSLATOR NAME AND INFO, PLEASE FILL THIS IN SO I CAN ADD YOU TO THE MAP */
-/* Translator name (Jordi Bruin)*/
-/* What city and country do you live in (Amsterdam, Netherlands) */
-/* what's your favorite emoji? (😘) */
+/* Translator name (Qifan Zhang)*/
+/* What city and country do you live in (Hangzhou, China) */
+/* what's your favorite emoji? (🍅) */
 
 /* SUPPORT ITEMS */
 
 "Start a FaceTime Call" = "开始 FaceTime 通话";
-"Start a video or audio call using FaceTime with a friend, family member or business partner." = "使用FaceTime与朋友、家人或商业伙伴开始视频或音频通话。";
+"Start a video or audio call using FaceTime with a friend, family member or business partner." = "开始使用 FaceTime 与朋友、家人或商业伙伴进行视频或音频通话。";
 
 "Open Navi" = "打开 Navi"
-"While staying on the call, return to your homescreen and open Navi." = "在保持通话的同时，返回你的主屏幕并打开Navi。"
+"While staying on the call, return to your homescreen and open Navi." = "在保持通话的同时，返回你的主屏幕并打开 Navi。"
 
-"Enable Subtitles" = "打开字幕"
-"Tap the \"Enable Subtitles\" button to invite the other people on the FaceTime call to Navi." = "点 "启用字幕 “按钮，邀请FaceTime 通话中的其他人加入Navi"
+"Enable Subtitles" = "启用字幕"
+"Tap the \"Enable Subtitles\" button to invite the other people on the FaceTime call to Navi." = "点选 "启用字幕" 按钮来邀请在 FaceTime 通话中的其他人使用 Navi。"
 
 "Wait for others to join" = "等待其他人加入"
-"The other people on the call will get a popup telling them to enable Shareplay, after which they can tap on \"Open\"." = "其他通话中的人在点击“打开”后，将会收到打开“Shareplay” 的提醒"
+"The other people on the call will get a popup telling them to enable Shareplay, after which they can tap on \"Open\"." = "在 FaceTime 通话中的其他人将会收到提示他们启用 SharePlay 的弹窗，然后他们可以点击"打开"。"
