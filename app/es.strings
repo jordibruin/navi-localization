@@ -9,13 +9,14 @@
 /* TRANSLATOR NAME AND INFO, PLEASE FILL THIS IN SO I CAN ADD YOU TO THE MAP */
 /* Translator name (Luis Suarez)*/
 /* What city and country do you live in (Barranquilla, Colombia) */
-/* what's your favorite emoji? (👍 */
+/* what's your favorite emoji? (👍) */
 
 /* ONBOARDING */
 "Get Started" = "Iniciemos";
 "Allow" = "Permitir";
 "Allowed" = "Permitido";
 "Denied" = "Denegado";
+"Continue" = "Continuar";
 
 /* PERMISSIONS */
 "Microphone" = "Micrófono";
