@@ -1,0 +1,26 @@
+/*
+  Localizable.strings
+  Navi
+
+  Created by Jordi Bruin on 08/12/2021.
+  
+*/
+
+/* TRANSLATOR NAME AND INFO, PLEASE FILL THIS IN SO I CAN ADD YOU TO THE MAP */
+/* Translator name (Berkay Sargın)*/
+/* What city and country do you live in (İzmir, Turkey) */
+/* what's your favorite emoji? (🦄) */
+
+/* SUPPORT ITEMS */
+
+"Start a FaceTime Call" = "FaceTime Görüşmesi Başlatın";
+"Start a video or audio call using FaceTime with a friend, family member or business partner." = "FaceTime'ı kullanarak bir arkadaşınızla, aile üyenizle veya iş ortağınızla görüntülü veya sesli görüşme başlatın.";
+
+"title": "Navi'yi Aç"
+"subtitle": "Görüşmede kalırken ana ekranınıza dönün ve Navi'yi açın."
+
+"title": "Altyazıları Etkinleştir"
+"subtitle": "FaceTime görüşmesindeki diğer kişileri Navi'ye davet etmek için \"Altyazıları Etkinleştir\" düğmesine dokunun. "
+
+"title": "Diğer kişilerin katılmasını bekleyin"
+"subtitle": "Aramadaki diğer kişiler, SharePlay'i etkinleştirmelerini söyleyen bir uyarı alacaklar, hemen ardından \"Aç\"a dokunarak devam edebilirler."
