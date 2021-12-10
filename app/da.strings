@@ -35,15 +35,15 @@
 "Navi uses Speech Recognition to generate subtitles. Please give access to Speech Recognition in your settings." = "Navi bruger Talegenkendelse til at lave undertekster. Giv venligst adgang til Talegenkendelse under dine indstillinger.";
 "Open Settings" = "Åben indstillinger";
 
-/* SKIP BUTOTN ON PERMISSION PAGE */
-"Skip" = "Næste";
+/* SKIP BUTTON ON PERMISSION PAGE */
+"Skip" = "Spring over";
 "Permissions" = "Tilladelser";
 "Navi requires microphone and speech to text permission to create subtitles. Without it Navi won't work properly." = "Navi kræver mikrofon og tekst-til-tale tilladelse for at lave undertekster. Uden adgang vil Navi ikke virker efter hensigten.";
-"Skip anyway" = "Fortsæt alligevel";
+"Skip anyway" = "Spring over";
 
 /* DISPLAY NAME */
 "Display Name" = "Brugernavn";
-"The name that is displayed alongside your subtitles" = "Det navn der bliver vist ved siden af dine undertekster";
+"The name that is displayed alongside your subtitles" = "Det navn der bliver vist med dine undertekster";
 
 /* LANGAUGE */
 "The language that you will be talking in." = "Det sprog du vil tale i.";
@@ -78,7 +78,7 @@
 "Subtitles" = "Undertekster";
 "Show own transcription" = "Vis egne transskription";
 "Large subtitles" = "Store undertekster";
-"Display your own transcription and choose the size of the incoming subtitles." = "Vis dine egne transskription og vælg størrelsen på indkomne undertekster.   Display your own transcription and choose the size of the incoming subtitles.";
+"Display your own transcription and choose the size of the incoming subtitles." = "Vis dine egne transskription og vælg størrelsen på indkomne undertekster.";
 
 "Translation" = "Oversættelse";
 "Live Translation" = "Direkte oversættelse";
@@ -101,8 +101,8 @@
 "How many tokens do I need?" = "Hvor mange tokens har jeg brug for?";
 
 "Good morning" = "God morgen";
-"Good afternoon" = "Good eftermiddag";
-"Good evening" = "Good aften";
+"Good afternoon" = "God eftermiddag";
+"Good evening" = "God aften";
 "Maybe Later" = "Måske senere";
 "Your Tokens" = "Dine Tokens";
 "%@ tokens" = "%@ Tokens";
@@ -146,3 +146,13 @@
 "Waiting for others to join" = "Venter på andre deltagere";
 "Other people on the FaceTime call have to open Navi before their subtitles appear here." = "Andre personer i FaceTime-opkaldet skal åbne Navi, før deres undertekster vises her.";
 
+/* ERRORS */
+"Something went wrong" = "Noget gik galt";
+
+"Please try again later" = "Prøv venligst igen senere"; 
+"Not enough translation tokens" = "Ikke nok oversættelses tokens";
+"Get more" = "Få mere";
+"Translation Error" = "Oversættelsesfejl";
+"No purchases could be found for your account" = "Der blev ikke fundet nogen køb på din konto";
+
+"Almost ready!" = "Næste klar!";
