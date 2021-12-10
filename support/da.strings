@@ -1,0 +1,26 @@
+/*
+  Localizable.strings
+  Navi
+
+  Created by Jordi Bruin on 08/12/2021.
+  
+*/
+
+/* TRANSLATOR NAME AND INFO, PLEASE FILL THIS IN SO I CAN ADD YOU TO THE MAP */
+/* Translator name (Brian Dinsen)*/
+/* What city and country do you live in (Horsens, Denmark) */
+/* what's your favorite emoji? (🚀) */
+
+/* SUPPORT ITEMS */
+
+"Start a FaceTime Call" = "Start et FaceTime opkald";
+"Start a video or audio call using FaceTime with a friend, family member or business partner." = "Start et video- eller lydopkald ved hjælp af FaceTime med en ven, et familiemedlem eller en forretningspartner.";
+
+"Open Navi" = "Åben Navi"
+"While staying on the call, return to your homescreen and open Navi." = "Mens du er i gang med opkaldet, skal du vende tilbage til din startskærm og åbne Navi."
+
+"Enable Subtitles" = Aktiver undertekster"
+"Tap the \"Enable Subtitles\" button to invite the other people on the FaceTime call to Navi." = "Tryk på knappen \"Aktiver undertekster\" for at invitere de andre personer i FaceTime-opkaldet til Navi."
+
+"Wait for others to join" = "Vent på, at andre deltager"
+"The other people on the call will get a popup telling them to enable Shareplay, after which they can tap on \"Open\"." = "De andre personer i opkaldet vil få en pop op, der fortæller dem, at de skal aktivere SharePlay, hvorefter de kan trykke på \"Åbn\"."
