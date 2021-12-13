@@ -1,4 +1,4 @@
-/* 
+/*
   Localizable.strings
   Navi
 
@@ -53,13 +53,14 @@
 "Invite your friends and call them with FaceTime to enable subtitles." = "Nodig je vrienden uit om Navi te installeren en bel ze dan met FaceTime om ondertiteling te activeren.";
 "How to use Navi" = "Hoe gebruik je Navi";
 "Share" = "Delen";
+"Active FaceTime Call" = "Actief FaceTime Gesprek"
+"Do you want to enable subtitles for this FaceTime call?" = "Wil je ondertiteling activeren voor dit FaceTime gesprek?"
 
 /* SUPPORT */
 "Support" = "Support";
 "How to enable subtitles" = "Hoe activeer je ondertiteling";
 "What languages are supported?" = "Welke talen worden ondersteund?";
 "Navi works in %@" = "Navi kan overweg met de volgende talen: %@";
-
 "Privacy Policy" = "Privacybeleid";
 "You can read Navi's Privacy Policy [here](URL GOES HERE)" = "Je kunt Navi's Privacy Beleid [hier](URL GOES HERE) lezen. In het kort komt het er op neer dat we zo min mogelijk van je willen weten.";
 "Email Us" = "Email Ons";
@@ -68,25 +69,22 @@
 "Settings" = "Instellingen";
 "Language" = "Taal";
 "Make sure the language matches the language you are speaking in, otherwise the generated subtitles will be inaccurate." = "Zorg er voor dat de taal overeen komt met de taal waarin je spreekt. Anders zal de ondertiteling inaccuraat zijn voor anderen.";
-
 "Translators" = "Vertalers";
 "Special thanks to" = "Special Thanks";
 "Review Navi" = "Review Navi";
 "Show Onboarding" = "Toon Introductie";
-
 "Subtitles" = "Ondertiteling";
 "Show own transcription" = "Toon eigen transcriptie";
 "Large subtitles" = "Grote ondertiteling";
 "Display your own transcription and choose the size of the incoming subtitles." = "Toon wat je zelf zegt en kies de grootte van de tekst in de ondertiteling.";
-
+"Translation" = "Vertaling";
 "Live Translation" = "Live Vertaling";
 "Realtime Translation" = "Instant Vertaling";
 "Translation Tokens" = "Vertaal Credits";
 "Translate subtitles as soon as they come in. This requires a lot more Translation Tokens." = "Vertaal ondertiteling zodra woorden binnenkomen. Dit verbruikt een hoop meer Vertaal Credits.";
 
-
 /* UNLIMITED SUBTITLES */
-"Unlimited Subtitles" = "Onbeperkt Ondertiteling";
+"Unlimited Subtitles" = "Onbeperkte Ondertitels";
 "Get Unlimited Subtitles" = "Neem Onbeperkte Ondertiteling";
 "Enable subtitles on all your FaceTime calls" = "Zet ondertiteling aan voor al je FaceTime gesprekken";
 "Restore Purchases" = "Aankopen herstellen";
@@ -95,23 +93,18 @@
 "Translation" = "Vertaling";
 "Live Translation" = "Live Vertaling";
 "Talk to anyone, in any language. Translate what other people are saying instantly!" = "Praat met iedereen, in elke taal. Vertaal direct wat andere mensen zeggen!";
-
 "Every character that needs to be translated uses one token" = "Elk kararkate wat vertaald moet worden gebruikt één credit";
-
 "How many tokens do I need?" = "Hoeveel credits heb ik nodig?";
-
 "Good morning" = "Goedemorgen";
 "Good afternoon" = "Goedemiddag";
 "Good evening" = "Goedenavond";
 "Maybe Later" = "Misschien later";
 "Your Tokens" = "Jouw Credits";
 "%@ tokens" = "%@ Credits";
-
 "Trial Pack" = "Proef Pakket";
 "Small Pack" = "Medium Pakket";
 "Large Pack" = "Groot Pakket";
 "Business Pack" = "Mega Pakket";
-
 "Token Calculator" = "Credits Berekenen";
 "Words" = "Woorden";
 "Words per minute" = "Woorden per minuut";
@@ -119,29 +112,29 @@
 "Characters per minute" = "Karakters per minuut";
 "per minute" = "per minuut";
 "per 30 minutes" = "per 30 minuten";
-
 "Start Calculator" = "Start Berekening";
 "Stop Calculator" = "Stop Berekening";
-
 "Start the calculator and speak at your normal pace to determine how many characters you speak in an average conversation." =  "Start de berekening en praat op je normale snelheid om te bepalen hoeveel kararkers je gebruikt in een gemiddeld gesprek.";
 
 /* SUBTITLES PAGE */
 "Nobody has said anything yet" = "Niemand heeft iets gezegd";
 "Subtitles will appear here when someone starts talking" = "Ondertiteling verschijnt hier wanneer iemand begint te praten";
-
 "Enable Translation" = "Vertaling aanzetten";
 "Disable Translation" = "Vertaling uitzetten";
 "Manage Languages" = "Talen beheren";
-
 "Get Translate Tokens" = "Koop Vertaal Credits";
 "Tokens: %@" = "Credits: %@";
-
 "Favorite Languages" = "Favorite Languages";
 "All languages" = "All languages";
 "Your favorites can quickly be selected from the language button" = "Your favorites can quickly be selected from the language button";
-
 "Stop SharePlay" = "Stop SharePlay";
 "Disable Subtitles" = "Disable Subtitles";
-
 "Waiting for others to join" = "Waiting for others to join";
 "Other people on the FaceTime call have to open Navi before their subtitles appear here." = "Other people on the FaceTime call have to open Navi before their subtitles appear here.";
+
+/* ERRORS */
+"Please try again later" = "Please try again later";
+"Not enough translation tokens" = "Not enough translation tokens";
+"Get more" = "Get more";
+"Translation Error" = "Translation Error";
+"No purchases could be found for your account" = "No purchases could be found for your account";
