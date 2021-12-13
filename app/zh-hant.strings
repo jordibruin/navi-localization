@@ -1,0 +1,147 @@
+/*
+  Localizable.strings
+  Navi
+
+  Created by Jordi Bruin on 08/12/2021.
+  
+*/
+
+/* TRANSLATOR NAME AND INFO, PLEASE FILL THIS IN SO I CAN ADD YOU TO THE MAP */
+/* Translator name (Qifan Zhang)*/
+/* What city and country do you live in (Hangzhou, China) */
+/* what's your favorite emoji? (🍅) */
+
+/* ONBOARDING */
+"Get Started" = "開始使用";
+"Allow" = "允許";
+"Allowed" = "被允許";
+"Denied" = "被禁止";
+"Continue" = "繼續";
+
+/* PERMISSIONS */
+"Microphone" = "麥克風";
+"Navi uses the microphone to listen to your voice when you are talking." = "Navi 會在你講話時使用麥克風來收聽你的聲音。";
+"Speech Recognition" = "語音識別";
+"Navi uses Speech recognition to convert your words into subtitles." = "Navi 會使用語音識別將你說的話轉換成字幕。";
+
+/* MICROPHONE PERMISSION */
+"To record your sentences for creating subtitles" = "錄制你說的話來生成字幕";
+"Microphone Access Denied" = "無法獲取麥克風使用權限";
+"Navi needs access to your microphone to generate subtitles. Please give access to your microphone in your settings." = "Navi 需要訪問你的麥克風來生成字幕。請在系統設置中打開訪問麥克風權限";
+
+/* SPEECH RECOGNITION PERMISSION */
+"To convert what you are saying into subtitles" = "將你所說的內容轉換成字幕";
+"Speech Recognition Denied" = "無法獲取語音識別訪問權限";
+"Navi uses Speech Recognition to generate subtitles. Please give access to Speech Recognition in your settings." = "Navi 使用語音識別以生成字幕。請在你的系統設置中打開語音識別訪問權限。";
+"Open Settings" = "打開設置";
+
+/* SKIP BUTOTN ON PERMISSION PAGE */
+"Skip" = "跳過";
+"Permissions" = "權限";
+"Navi requires microphone and speech to text permission to create subtitles. Without it Navi won't work properly." = "Navi 需要麥克風和語音識別權限來生成字幕。禁用它們 Navi 將無法正常使用。";
+"Skip anyway" = "仍然跳過";
+
+/* DISPLAY NAME */
+"Display Name" = "顯示名稱";
+"The name that is displayed alongside your subtitles" = "此名稱會顯示在你的字幕旁邊。";
+
+/* LANGAUGE */
+"The language that you will be talking in." = "你將使用何種語言來說話。";
+
+/* HOME SCREEN */
+"You're ready for your first call!" = "一切就緒，去撥打你的第一通電話吧！";
+"Invite your friends and call them with FaceTime to enable subtitles." = "邀請你的朋友並使用 FaceTime 進行通話以啓用字幕。";
+"How to use Navi" = "如何使用 Navi";
+"Share" = "分享";
+
+/* SUPPORT */
+"Support" = "幫助";
+"How to enable subtitles" = "如何啓用字幕";
+"What languages are supported?" = "支持哪些語言？";
+"Navi works in %@" = "Navi 支持 %@";
+
+"Privacy Policy" = "隱私政策";
+"You can read Navi's Privacy Policy [here](URL GOES HERE)" = "你可以瀏覽 Navi 的隱私政策內容 [點擊此處](URL GOES HERE). 簡而言之，我們希望盡可能少地去瞭解有關你的信息。";
+"Email Us" = "給我們發郵件";
+
+
+/* SETTINGS */
+"Settings" = "設置";
+"Language" = "語言";
+"Make sure the language matches the language you are speaking in, otherwise the generated subtitles will be inaccurate." = "請確保語言設置與你說的語言相匹配，否則生成的字幕內容將會不準確。";
+
+"Translators" = "翻譯人員";
+"Special thanks to" = "特別感謝";
+"Review Navi" = "給 Navi 評分";
+"Show Onboarding" = "展示歡迎內容";
+
+"Subtitles" = "字幕";
+"Show own transcription" = "顯示自己所說的內容";
+"Large subtitles" = "更大字幕";
+"Display your own transcription and choose the size of the incoming subtitles." = "顯示你所說的內容，並選擇字幕文字的大小。";
+
+"Translation" = "翻譯";
+"Live Translation" = "實時翻譯";
+"Realtime Translation" = "即時翻譯";
+"Translate subtitles as soon as they come in. This requires a lot more Translation Tokens." = "即時生成翻譯後的字幕內容，這需要更多的翻譯代幣。";
+
+
+/* UNLIMITED SUBTITLES */
+"Unlimited Subtitles" = "無限字幕";
+"Get Unlimited Subtitles" = "獲得無限字幕";
+"Enable subtitles on all your FaceTime calls" = "在你的所有 FaceTime 通話中啓用字幕";
+"Restore Purchases" = "恢復購買";
+
+/* LIVE TRANSLATION */
+"Live Translation" = "實時翻譯";
+"Talk to anyone, in any language. Translate what other people are saying instantly!" = "使用任何語言，與任何人交流。即時翻譯他人所說的內容！";
+
+"Every character that needs to be translated uses one token" = "每一個需要翻譯的字符都會消耗一枚代幣";
+
+"How many tokens do I need?" = "我需要多少代幣？";
+
+"Good morning" = "早上好";
+"Good afternoon" = "下午好";
+"Good evening" = "晚上好";
+"Maybe Later" = "也許以後";
+"Your Tokens" = "你的代幣";
+"%@ tokens" = "%@ 代幣";
+
+"Trial Pack" = "試用包";
+"Small Pack" = "小型包";
+"Large Pack" = "大型包";
+"Business Pack" = "超大型包";
+
+"Token Calculator" = "代幣計算器";
+"Words" = "文字";
+"Words per minute" = "每分鐘字數";
+"Characters" = "字符";
+"Characters per minute" = "每分鐘字符數";
+"per minute" = "每分鐘";
+"per 30 minutes" = "每三十分鐘";
+
+"Start Calculator" = "啓用計算器";
+"Stop Calculator" = "停用計算器";
+
+"Start the calculator and speak at your normal pace to determine how many characters you speak in an average conversation." =  "啓用計算器並用常規語速說話，計算器會計算出你在一次對話中平均會說多少個字。";
+
+/* SUBTITLES PAGE */
+"Nobody has said anything yet" = "目前無人說話";
+"Subtitles will appear here when someone starts talking" = "當有人開始說話時，字幕會顯示在此處。";
+
+"Enable Translation" = "啓用翻譯";
+"Disable Translation" = "停用翻譯";
+"Manage Languages" = "管理語言";
+
+"Get Translate Tokens" = "獲取翻譯代幣";
+"Tokens: %@" = "代幣數量: %@";
+
+"Favorite Languages" = "語言偏好";
+"All languages" = "所有語言";
+"Your favorites can quickly be selected from the language button" = "你可以從語言按鈕中快速選擇你的語言偏好";
+
+"Stop SharePlay" = "停止 SharePlay";
+"Disable Subtitles" = "關閉字幕";
+
+"Waiting for others to join" = "等待其他人加入";
+"Other people on the FaceTime call have to open Navi before their subtitles appear here." = "FaceTime 通話中的其他人必須先啓動 Navi，他們的字幕才會顯示在此。";

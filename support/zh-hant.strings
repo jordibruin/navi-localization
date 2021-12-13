@@ -1,0 +1,26 @@
+/*
+  Localizable.strings
+  Navi
+
+  Created by Jordi Bruin on 08/12/2021.
+  
+*/
+
+/* TRANSLATOR NAME AND INFO, PLEASE FILL THIS IN SO I CAN ADD YOU TO THE MAP */
+/* Translator name (Qifan Zhang)*/
+/* What city and country do you live in (Hangzhou, China) */
+/* what's your favorite emoji? (🍅) */
+
+/* SUPPORT ITEMS */
+
+"Start a FaceTime Call" = "開始 FaceTime 通話";
+"Start a video or audio call using FaceTime with a friend, family member or business partner." = "開始使用 FaceTime 與朋友、家人或商業夥伴進行視頻或音頻通話。";
+
+"Open Navi" = "打開 Navi"
+"While staying on the call, return to your homescreen and open Navi." = "在保持通話的同時，返回你的主屏幕並打開 Navi。"
+
+"Enable Subtitles" = "啓用字幕"
+"Tap the \"Enable Subtitles\" button to invite the other people on the FaceTime call to Navi." = "點選 "啓用字幕" 按鈕來邀請在 FaceTime 通話中的其他人使用 Navi。"
+
+"Wait for others to join" = "等待其他人加入"
+"The other people on the call will get a popup telling them to enable Shareplay, after which they can tap on \"Open\"." = "在 FaceTime 通話中的其他人將會收到提示他們啓用 SharePlay 的彈窗，然後他們可以點擊"打開"。"

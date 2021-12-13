@@ -19,5 +19,5 @@ Thanks!
 | 🇮🇹 Italian      |  Gualtiero Frigerio |  [Twitter](https://www.twitter.com/gualtierofr)  |
 | 🇪🇸 Spanish      | Luis | [Twitter](https://www.twitter.com/designaid_web)   | 
 | 🇹🇷 Turkish | Berkay Sargin | [Twitter](https://www.twitter.com/berkaey)  | 🦄
-
+| 🇭🇰 Chinese (Traditional) | Wing | [Twitter](https://twitter.com/WingCH2) | |
 
