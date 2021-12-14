@@ -14,8 +14,8 @@
 /* ONBOARDING */
 "Get Started" = "开始使用";
 "Allow" = "允许";
-"Allowed" = "被允许";
-"Denied" = "被禁止";
+"Allowed" = "已允许";
+"Denied" = "已禁止";
 "Continue" = "继续";
 
 /* PERMISSIONS */
