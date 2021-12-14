@@ -53,38 +53,35 @@
 "Invite your friends and call them with FaceTime to enable subtitles." = "Inviter dine venner og ring til dem med FaceTime for at aktivere undertekster.";
 "How to use Navi" = "Sådan bruger du Navi";
 "Share" = "Del";
+"Active FaceTime Call" = "Aktivt FaceTime-opkald"
+"Do you want to enable subtitles for this FaceTime call?" = "Vil du slå undertekster til for dette FaceTime-opkald?"
 
 /* SUPPORT */
 "Support" = "Support";
 "How to enable subtitles" = "Sådan aktiveres undertekster";
-"What languages are supported?" = "Hvilke sprog er understøttet? ";
+"What languages are supported?" = "Hvilke sprog understøttes? ";
 "Navi works in %@" = "Navi works in %@";
-
 "Privacy Policy" = "Privatlivspolitik";
 "You can read Navi's Privacy Policy [here](URL GOES HERE)" = "Du kan læse Navi's Privatlivspolitik [her](URL INDSÆTTES HER). I korte træk, vil vi vide så lidt som muligt om dig.";
-"Email Us" = "Email Os";
-
+"Email Us" = "Email os";
 
 /* SETTINGS */
 "Settings" = "Indstillinger";
 "Language" = "Sprog";
 "Make sure the language matches the language you are speaking in, otherwise the generated subtitles will be inaccurate." = "Sikre dig sprog passer med det sprog du vil tale i. Ellers vil underteksterne blive upræcise.";
-
 "Translators" = "Oversættere";
 "Special thanks to" = "Specielt tak til";
 "Review Navi" = "Bedøm Navi";
 "Show Onboarding" = "Vis Onboarding";
-
 "Subtitles" = "Undertekster";
 "Show own transcription" = "Vis egne transskription";
+"Translation Tokens" = "Translation Tokens";
 "Large subtitles" = "Store undertekster";
 "Display your own transcription and choose the size of the incoming subtitles." = "Vis dine egne transskription og vælg størrelsen på indkomne undertekster.";
-
 "Translation" = "Oversættelse";
 "Live Translation" = "Direkte oversættelse";
 "Realtime Translation" = "Oversættelse i realtid";
 "Translate subtitles as soon as they come in. This requires a lot more Translation Tokens." = "Oversæt undertekster lige så snart de kommer ind. Dette kræver en del flere Oversættelses Tokens.";
-
 
 /* UNLIMITED SUBTITLES */
 "Unlimited Subtitles" = "Ubegrænset undertekster";
@@ -93,25 +90,21 @@
 "Restore Purchases" = "Gendan køb";
 
 /* LIVE TRANSLATION */
+"Translation" = "Translation";
 "Live Translation" = "Direkte oversættelse";
 "Talk to anyone, in any language. Translate what other people are saying instantly!" = "Snak til alle på ethvert sprog. Oversæt hvad andre personer siger med det samme!";
-
 "Every character that needs to be translated uses one token" = "Hvert tegn der skal oversættes, bruger en token";
-
 "How many tokens do I need?" = "Hvor mange tokens har jeg brug for?";
-
 "Good morning" = "God morgen";
 "Good afternoon" = "God eftermiddag";
 "Good evening" = "God aften";
 "Maybe Later" = "Måske senere";
 "Your Tokens" = "Dine Tokens";
 "%@ tokens" = "%@ Tokens";
-
 "Trial Pack" = "Prøve pakke";
 "Small Pack" = "Lille pakke";
 "Large Pack" = "Stor pakke";
 "Business Pack" = "Kæmpe pakke";
-
 "Token Calculator" = "Token lommeregner";
 "Words" = "Ord";
 "Words per minute" = "Ord i minuttet";
@@ -119,40 +112,29 @@
 "Characters per minute" = "Tegn i minuttet";
 "per minute" = "i minuttet";
 "per 30 minutes" = "pr. 30 minutter";
-
 "Start Calculator" = "Start lommeregner";
 "Stop Calculator" = "Stop lommeregner";
-
 "Start the calculator and speak at your normal pace to determine how many characters you speak in an average conversation." =  "Start lommeregneren og tal i dit normale tempo, for at bestemme hvor mange tegn du brguer i en gennemsnitlig samtale.";
 
 /* SUBTITLES PAGE */
 "Nobody has said anything yet" = "Ingen har sagt noget endnu";
 "Subtitles will appear here when someone starts talking" = "Undertekster vises her, når nogen begynder at tale";
-
 "Enable Translation" = "Aktiver oversættelse";
 "Disable Translation" = "Deaktiver oversættelse";
 "Manage Languages" = "Administrer sprog";
-
 "Get Translate Tokens" = "Få oversæt tokens";
 "Tokens: %@" = "Tokens: %@";
-
 "Favorite Languages" = "Favorit sprog";
 "All languages" = "Alle sprog";
 "Your favorites can quickly be selected from the language button" = "Dine favoritter kan hurtigt vælges fra sprog knappen";
-
 "Stop SharePlay" = "Stop SharePlay";
 "Disable Subtitles" = "Deaktiver undertekster";
-
 "Waiting for others to join" = "Venter på andre deltagere";
 "Other people on the FaceTime call have to open Navi before their subtitles appear here." = "Andre personer i FaceTime-opkaldet skal åbne Navi, før deres undertekster vises her.";
 
 /* ERRORS */
-"Something went wrong" = "Noget gik galt";
-
-"Please try again later" = "Prøv venligst igen senere"; 
+"Please try again later" = "Prøv igen senere";
 "Not enough translation tokens" = "Ikke nok oversættelses tokens";
 "Get more" = "Få mere";
 "Translation Error" = "Oversættelsesfejl";
 "No purchases could be found for your account" = "Der blev ikke fundet nogen køb på din konto";
-
-"Almost ready!" = "Næste klar!";
