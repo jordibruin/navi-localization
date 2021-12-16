@@ -53,8 +53,9 @@
 "Invite your friends and call them with FaceTime to enable subtitles." = "Nodig je vrienden uit om Navi te installeren en bel ze dan met FaceTime om ondertiteling te activeren.";
 "How to use Navi" = "Hoe gebruik je Navi";
 "Share" = "Delen";
-"Active FaceTime Call" = "Actief FaceTime Gesprek"
-"Do you want to enable subtitles for this FaceTime call?" = "Wil je ondertiteling activeren voor dit FaceTime gesprek?"
+"Active FaceTime Call" = "Actief FaceTime Gesprek";
+"Do you want to enable subtitles for this FaceTime call?" = "Wil je ondertiteling activeren voor dit FaceTime gesprek?";
+"Enable Subtitles" = "Activeer Ondertiteling";
 
 /* SUPPORT */
 "Support" = "Support";
