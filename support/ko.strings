@@ -1,0 +1,26 @@
+/*
+  Localizable.strings
+  Navi
+
+  Created by Jordi Bruin on 08/12/2021.
+  
+*/
+
+/* TRANSLATOR NAME AND INFO, PLEASE FILL THIS IN SO I CAN ADD YOU TO THE MAP */
+/* Translator name (Jordi Bruin)*/
+/* What city and country do you live in (Amsterdam, Netherlands) */
+/* what's your favorite emoji? (😘) */
+
+/* SUPPORT ITEMS */
+
+"Start a FaceTime Call" = "FaceTime 통화 시작";
+"Start a video or audio call using FaceTime with a friend, family member or business partner." = "친구, 가족 또는 비즈니스 파트너와 FaceTime을 사용하여 화상 또는 음성 통화를 시작하십시오.";
+
+"Open Navi" = "Navi 열기"
+"While staying on the call, return to your homescreen and open Navi." = "통화를 유지하면서 홈 화면으로 돌아가 Navi를 엽니다."
+
+"Enable Subtitles" = "자막 활성화"
+"Tap the \"Enable Subtitles\" button to invite the other people on the FaceTime call to Navi." = "FaceTime 통화 중인 다른 사람들을 Navi로 초대하려면 \"자막 활성화\" 버튼을 탭하세요."
+
+"Wait for others to join" = "Wait for others to join"
+"The other people on the call will get a popup telling them to enable Shareplay, after which they can tap on \"Open\"." = "통화 중인 다른 사람들에게는 셰어플레이를 활성화하라는 팝업이 표시되며 그 후 \"열기\"를 탭할 수 있습니다."
