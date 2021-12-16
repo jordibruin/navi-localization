@@ -1,0 +1,26 @@
+/*
+  Localizable.strings
+  Navi
+
+  Created by Jorge Rosado on 15/12/2021.
+  
+*/
+
+/* TRANSLATOR NAME AND INFO, PLEASE FILL THIS IN SO I CAN ADD YOU TO THE MAP */
+/* Translator name (Jorge Rosado)*/
+/* What city and country do you live in (Mira de Aire, Portugal) */
+/* what's your favorite emoji? (😎) */
+
+/* SUPPORT ITEMS */
+
+"Start a FaceTime Call" = "Iniciar uma chamada de FaceTime";
+"Start a video or audio call using FaceTime with a friend, family member or business partner." = "Iniciar uma chamada de Video ou de Audio com um amigo, membro da familia ou parceiro de negócios utilizando o FaceTime.";
+
+"Open Navi" = "Abrir o Navi"
+"While staying on the call, return to your homescreen and open Navi." = "Enquanto estiver numa chamada, retorne ao seu ecrã inicial e abra o Navi."
+
+"Enable Subtitles" = "Ativar as legendas"
+"Tap the \"Enable Subtitles\" button to invite the other people on the FaceTime call to Navi." = "Clique no botão \"Ativar legendas\" para convidar outras pessoas na chamada do FaceTime para o Navi."
+
+"Wait for others to join" = "à espera que outras pessoas se juntem"
+"The other people on the call will get a popup telling them to enable Shareplay, after which they can tap on \"Open\"." = "As outras pessoas na chamada receberão um popup informando-as para ativar o SharePlay, após o qual poderão clicar em \"Abrir\"."
