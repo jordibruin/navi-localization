@@ -53,8 +53,8 @@
 "Invite your friends and call them with FaceTime to enable subtitles." = "친구를 초대하고 FaceTime으로 전화를 걸어 자막을 활성화하세요.";
 "How to use Navi" = "Navi 사용하는 방법";
 "Share" = "공유하기";
-"Active FaceTime Call" = "엑티브 한 FaceTime Call"
-"Do you want to enable subtitles for this FaceTime call?" = "이 FaceTime 통화에 자막을 사용하시겠습니까?"
+"Active FaceTime Call" = "엑티브 한 FaceTime Call";
+"Do you want to enable subtitles for this FaceTime call?" = "이 FaceTime 통화에 자막을 사용하시겠습니까?";
 
 /* SUPPORT */
 "Support" = "지원";
