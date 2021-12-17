@@ -1,0 +1,140 @@
+/*
+  Localizable.strings
+  Navi
+
+  Created by Ailton Vieira on 16/12/2021.
+  
+*/
+
+/* TRANSLATOR NAME AND INFO, PLEASE FILL THIS IN SO I CAN ADD YOU TO THE MAP */
+/* Translator name (Ailton Vieira)*/
+/* What city and country do you live in (Curitiba, Brazil) */
+/* what's your favorite emoji? (🤔) */
+
+/* ONBOARDING */
+"Get Started" = "Iniciar";
+"Allow" = "Permitir";
+"Allowed" = "Permitido";
+"Denied" = "Negado";
+"Continue" = "Continuar";
+
+/* PERMISSIONS */
+"Microphone" = "Microfone";
+"Navi uses the microphone to listen to your voice when you are talking." = "Navi usa o microfone para ouvir sua voz enquanto fala.";
+"Speech Recognition" = "Reconhecimento de voz";
+"Navi uses Speech recognition to convert your words into subtitles." = "Navi usa reconhecimento de voz para converter suas palavras em legendas.";
+
+/* MICROPHONE PERMISSION */
+"To record your sentences for creating subtitles" = "Para gravar suas frases e criar as legendas";
+"Microphone Access Denied" = "Acesso ao microfone negado";
+"Navi needs access to your microphone to generate subtitles. Please give access to your microphone in your settings." = "Navi precisa do acesso ao seu microfone para gerar as legendas. Por favor, permita o acesso ao seu microfone nas configurações.";
+
+/* SPEECH RECOGNITION PERMISSION */
+"To convert what you are saying into subtitles" = "Para converter o que está falando em legendas";
+"Speech Recognition Denied" = "Reconhecimento de voz negado";
+"Navi uses Speech Recognition to generate subtitles. Please give access to Speech Recognition in your settings." = "Navi utiliza o reconhecimento de voz para gerar as legendas. Por favor permita o acesso ao reconhecimento de voz nas suas configurações.";
+"Open Settings" = "Abrir Configurações";
+
+/* SKIP BUTOTN ON PERMISSION PAGE */
+"Skip" = "Ignorar";
+"Permissions" = "Permissões";
+"Navi requires microphone and speech to text permission to create subtitles. Without it Navi won't work properly." = "Navi precisa do acesso ao seu microfone e à função de ditado para criar as legendas. Sem essa permissão, o Navi não vai funcionar corretamente.";
+"Skip anyway" = "Ignorar mesmo assim";
+
+/* DISPLAY NAME */
+"Display Name" = "Nome de Exibição";
+"The name that is displayed alongside your subtitles" = "O nome que é mostrado junto às legendas";
+
+/* LANGAUGE */
+"The language that you will be talking in." = "O idioma que você irá usar para conversar.";
+
+/* HOME SCREEN */
+"You're ready for your first call!" = "Você está preparado para a sua primeira chamada!";
+"Invite your friends and call them with FaceTime to enable subtitles." = "Convide seus amigos e ligue para eles através do FaceTime para ativar as legendas.";
+"How to use Navi" = "Como usar o Navi";
+"Share" = "Compartilhar";
+"Active FaceTime Call" = "Chamada ativa no FaceTime";
+"Do you want to enable subtitles for this FaceTime call?" = "Deseja ativar as legendas nesta chamada do FaceTime?";
+
+/* SUPPORT */
+"Support" = "Suporte";
+"How to enable subtitles" = "Como ativar as legendas";
+"What languages are supported?" = "Quais idiomas são suportados?";
+"Navi works in %@" = "Navi funciona em %@";
+"Privacy Policy" = "Política de Privacidade";
+"You can read Navi's Privacy Policy [here](URL GOES HERE)" = "Você pode ler a Política de Privacidade do Navi [aqui](URL GOES HERE)";
+"Email Us" = "Envie-nos um email";
+
+/* SETTINGS */
+"Settings" = "Configurações";
+"Language" = "Idioma";
+"Make sure the language matches the language you are speaking in, otherwise the generated subtitles will be inaccurate." = "Certifique-se que o idioma é o mesmo que o idioma que você está falando, caso contrário as legendas geradas serão imprecisas.";
+"Translators" = "Tradutores";
+"Special thanks to" = "Agradecimentos especiais a";
+"Review Navi" = "Avalie o Navi";
+"Show Onboarding" = "Mostrar onboarding";
+"Subtitles" = "Legendas";
+"Show own transcription" = "Mostrar a própria transcrição";
+"Large subtitles" = "Legendas grandes";
+"Display your own transcription and choose the size of the incoming subtitles." = "Exiba a sua própria transcrição e escolha o tamanho das legendas recebidas.";
+"Translation" = "Tradução";
+"Live Translation" = "Tradução ao vivo";
+"Translation Tokens" = "Tokens de tradução";
+"Realtime Translation" = "Tradução em tempo real";
+"Translate subtitles as soon as they come in. This requires a lot more Translation Tokens." = "Traduza as legendas assim que as receber. Isto exigirá muitos mais Tokens de tradução";
+
+/* UNLIMITED SUBTITLES */
+"Unlimited Subtitles" = "Legendas ilimitadas";
+"Get Unlimited Subtitles" = "Obter legendas ilimitadas";
+"Enable subtitles on all your FaceTime calls" = "Ativar as legendas em todas as chamadas do FaceTime";
+"Restore Purchases" = "Restaurar Compras";
+
+/* LIVE TRANSLATION */
+"Translation" = "Tradução";
+"Live Translation" = "Tradução ao vivo";
+"Talk to anyone, in any language. Translate what other people are saying instantly!" = "Fale com qualquer pessoa, em qualquer idioma. Traduza o que os outros estão falando instantaneamente!";
+"Every character that needs to be translated uses one token" = "Cada caractere que precisa ser traduzido utiliza um token";
+"How many tokens do I need?" = "Vou precisar de quantos tokens?";
+"Good morning" = "Bom dia";
+"Good afternoon" = "Boa tarde";
+"Good evening" = "Boa noite";
+"Maybe Later" = "Talvez mais tarde";
+"Your Tokens" = "Seus Tokens";
+"%@ tokens" = "%@ Tokens";
+"Trial Pack" = "Pacote Teste";
+"Small Pack" = "Pacote Pequeno";
+"Large Pack" = "Pacote Grande";
+"Business Pack" = "Pacote Mega";
+"Token Calculator" = "Calculadora de Token";
+"Words" = "Palavras";
+"Words per minute" = "Palavras por minuto";
+"Characters" = "Caracteres";
+"Characters per minute" = "Caracteres por minuto";
+"per minute" = "por minuto";
+"per 30 minutes" = "por 30 minutos";
+"Start Calculator" = "Iniciar a Calculadora";
+"Stop Calculator" = "Parar a Calculadora";
+"Start the calculator and speak at your normal pace to determine how many characters you speak in an average conversation." =  "Inicie a calculadora e fale normalmente para determinar quantos caracteres utiliza em média numa conversa.";
+
+/* SUBTITLES PAGE */
+"Nobody has said anything yet" = "Ninguém disse nada ainda";
+"Subtitles will appear here when someone starts talking" = "As legendas vão aparecer quando alguém começar a falar";
+"Enable Translation" = "Ativar tradução";
+"Disable Translation" = "Desativar tradução";
+"Manage Languages" = "Ajustar Idiomas";
+"Get Translate Tokens" = "Obter Tokens de tradução";
+"Tokens: %@" = "Tokens: %@";
+"Favorite Languages" = "Idiomas Favoritos";
+"All languages" = "Todos os Idiomas";
+"Your favorites can quickly be selected from the language button" = "Seus favoritos podem ser selecionados rapidamente utilizando o botão idioma";
+"Stop SharePlay" = "Parar SharePlay";
+"Disable Subtitles" = "Desativar legendas";
+"Waiting for others to join" = "Esperando outros entrarem";
+"Other people on the FaceTime call have to open Navi before their subtitles appear here." = "Outras pessoas na chamada do FaceTime precisam abrir o Navi antes que as suas legendas apareçam aqui.";
+
+/* ERRORS */
+"Please try again later" = "Por favor, tente mais tarde";
+"Not enough translation tokens" = "Tokens de tradução insuficientes";
+"Get more" = "Obter mais";
+"Translation Error" = "Erro na tradução";
+"No purchases could be found for your account" = "Não foram encontradas compras para a sua conta";
