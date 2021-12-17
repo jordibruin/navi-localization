@@ -21,4 +21,4 @@ Thanks!
 | 🇹🇷 Turkish | Berkay Sargin | [Twitter](https://www.twitter.com/berkaey)  | 🦄
 | 🇭🇰 Chinese (Traditional) | Wing | [Twitter](https://twitter.com/WingCH2) | |
 | 🇧🇷 Portuguese (Brazil) | Ailton Vieira | [Twitter](https://twitter.com/ailtonvivaz) | 🤔 |
-
+| 🇵🇹 Portuguese (Portugal) | Jorge Rosado | [Twitter](https://twitter.com/theguy_69_) | 😎 |
