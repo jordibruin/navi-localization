@@ -68,7 +68,7 @@
 /* SETTINGS */
 "Settings" = "Ajustes";
 "Language" = "Idioma";
-"Make sure the language matches the language you are speaking in, otherwise the generated subtitles will be inaccurate." = "Asegúrate de que el idioma sea el mismo que estás hablando, de otra manera los subtítulos no serán exactos.";
+"Make sure the language matches the language you are speaking in, otherwise the generated subtitles will be inaccurate." = "Asegúrate de que el idioma sea el mismo que estás hablando; si no, los subtítulos no serán exactos.";
 
 "Translators" = "Traductores";
 "Special thanks to" = "Agradecimientos especiales a";
