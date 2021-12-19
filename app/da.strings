@@ -68,7 +68,7 @@
 /* SETTINGS */
 "Settings" = "Indstillinger";
 "Language" = "Sprog";
-"Make sure the language matches the language you are speaking in, otherwise the generated subtitles will be inaccurate." = "Sikre dig sprog passer med det sprog du vil tale i. Ellers vil underteksterne blive upræcise.";
+"Make sure the language matches the language you are speaking in, otherwise the generated subtitles will be inaccurate." = "Sørg for at sproget matcher det sprog du taler. Ellers vil de genererede undertekster være unøjagtige.";
 "Translators" = "Oversættere";
 "Special thanks to" = "Specielt tak til";
 "Review Navi" = "Bedøm Navi";
