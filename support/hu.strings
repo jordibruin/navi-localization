@@ -1,0 +1,26 @@
+/*
+  Localizable.strings
+  Navi
+
+  Created by Jordi Bruin on 08/12/2021.
+  
+*/
+
+/* TRANSLATOR NAME AND INFO, PLEASE FILL THIS IN SO I CAN ADD YOU TO THE MAP */
+/* Translator name (Kristóf Kékesi)*/
+/* What city and country do you live in (Gárdony, Hungary) */
+/* what's your favorite emoji? (🥳) */
+
+/* SUPPORT ITEMS */
+
+"Start a FaceTime Call" = "FaceTime hívás indítása";
+"Start a video or audio call using FaceTime with a friend, family member or business partner." = "FaceTime hívás indítása egy barátoddal, családtagoddal, vagy munkatársaddal, üzleti partnereddel.";
+
+"Open Navi" = "Navi megnyitása";
+"While staying on the call, return to your homescreen and open Navi." = "A hívás közben, a kezdőképernyőről nyisd meg a Navit.";
+
+"Enable Subtitles" = "Feliratok engedélyezése";
+"Tap the \"Enable Subtitles\" button to invite the other people on the FaceTime call to Navi." = "Kattintson a \"Feliratok engedélyezése\" gombra, hogy a FaceTime hívásban lévő embereket a Naviba meghívd.";
+
+"Wait for others to join" = "Várjon, hogy a többiek is csatlakoztak";
+"The other people on the call will get a popup telling them to enable Shareplay, after which they can tap on \"Open\"." = "A hívásban lévő emberek egy felugró ablakot fognak látni, engedélyezzék a Shareplay-t, majd nyomják meg a \"Megnyitás\" gombot.";
