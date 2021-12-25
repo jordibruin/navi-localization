@@ -1,0 +1,141 @@
+/*
+  Localizable.strings
+  Navi
+
+  Created by Jordi Bruin on 08/12/2021.
+  
+*/
+
+/* TRANSLATOR NAME AND INFO, PLEASE FILL THIS IN SO I CAN ADD YOU TO THE MAP */
+/* Translator name (Kristóf Kékesi)*/
+/* What city and country do you live in (Gárdony, Hungary) */
+/* what's your favorite emoji? (🥳) */
+
+/* ONBOARDING */
+"Get Started" = "Kezdés";
+"Allow" = "Engedélyezés";
+"Allowed" = "Engedélyezve";
+"Denied" = "Elutasítva";
+"Continue" = "Tovább";
+
+/* PERMISSIONS */
+"Microphone" = "Mikrofon";
+"Navi uses the microphone to listen to your voice when you are talking." = "Navi a mikrofont amikor beszélsz a beszéded hallgatására használja.";
+"Speech Recognition" = "Beszédeflismerés";
+"Navi uses Speech recognition to convert your words into subtitles." = "Navi a beszédefelismerést használva a szavaidat feliratokká alakítja.";
+
+/* MICROPHONE PERMISSION */
+"To record your sentences for creating subtitles" = "Hogy felvegye a mondataid a feliratok létrehozásához";
+"Microphone Access Denied" = "Mikrofon elérés elutasítva";
+"Navi needs access to your microphone to generate subtitles. Please give access to your microphone in your settings." = "A Navinak szüksége van a mikrofonodra a feliratok létrehozásához. A mikrofon elérését engedélyezze a beállításokban.";
+
+/* SPEECH RECOGNITION PERMISSION */
+"To convert what you are saying into subtitles" = "Hogy a beszéded feliratokká alakítsa";
+"Speech Recognition Denied" = "Beszédefelismerés elutasítva";
+"Navi uses Speech Recognition to generate subtitles. Please give access to Speech Recognition in your settings." = "A Navi beszédefelismerést használ a feliratok készítésére. A beszédefelismerés elérését engedélyezze a beállításokban.";
+"Open Settings" = "Beállítások megnyitása";
+
+/* SKIP BUTOTN ON PERMISSION PAGE */
+"Skip" = "Tovább";
+"Permissions" = "Engedélyek";
+"Navi requires microphone and speech to text permission to create subtitles. Without it Navi won't work properly." = "A Navinak szüksége van a mikrofonhoz, és a beszéfelismerésre. Ezek nélkül a Navi nem fog megfelelően működni.";
+"Skip anyway" = "Tovább mindenképp";
+
+/* DISPLAY NAME */
+"Display Name" = "Megjelenő név";
+"The name that is displayed alongside your subtitles" = "A feliratok mellett megjelenő név.";
+
+/* LANGAUGE */
+"The language that you will be talking in." = "A nyelv amiben beszélni fogsz.";
+
+/* HOME SCREEN */
+"You're ready for your first call!" = "Készen állsz az első hívásodra!";
+"Invite your friends and call them with FaceTime to enable subtitles." = "Hívd meg a barátaidat és hívd őket FaceTime-on a feliratok engedélyezéséhez.";
+"How to use Navi" = "A Navi használatáról";
+"Share" = "Megosztás";
+"Active FaceTime Call" = "FaceTime hívások aktiválása";
+"Do you want to enable subtitles for this FaceTime call?" = "Szeretnéd engedélyezni ehhez a FaceTime híváshoz?";
+"Enable Subtitles" = "Feliratok engedélyezése";
+
+/* SUPPORT */
+"Support" = "Technikai segítség";
+"How to enable subtitles" = "Hogyan engedélyezzük a feliratokat";
+"What languages are supported?" = "Milyen nyelvek támogatottak?";
+"Navi works in %@" = "Navi %@-ban/ben működik";
+"Privacy Policy" = "Adatvédelmi irányelve";
+"You can read Navi's Privacy Policy [here](URL GOES HERE)" = "A Navi Adatvédelmi irányelveiről [itt](URL GOES HERE) tudsz olvasni. A tartalmáról röviden: minél kevesebbet akarunk tudni rólad.";
+"Email Us" = "Email küldése";
+
+/* SETTINGS */
+"Settings" = "Beállítások";
+"Language" = "Nyelv";
+"Make sure the language matches the language you are speaking in, otherwise the generated subtitles will be inaccurate." = "Győződj meg róla, hogy az általad beszélt nyelv megegyezik a beállított nyelvvel. Ha nem, a feliratok nem lesznek pontosak.";
+"Translators" = "Fordítók";
+"Special thanks to" = "Külön köszönet";
+"Review Navi" = "Navi értékelése";
+"Show Onboarding" = "Bevezető oldalak";
+"Subtitles" = "Feliratok";
+"Show own transcription" = "Saját átirat megjelenítése";
+"Large subtitles" = "Nagy feliratok";
+"Display your own transcription and choose the size of the incoming subtitles." = "Saját átirat megjelenítése és a feliratok méretének kiválasztása.";
+"Translation" = "Fordítás";
+"Live Translation" = "Élő fordítás";
+"Translation Tokens" = "Fordító tokenek";
+"Realtime Translation" = "Valós idejű fordítás";
+"Translate subtitles as soon as they come in. This requires a lot more Translation Tokens." = "A feliratok azonnali lefordítása. Ez sok fordító tokent igényel.";
+
+/* UNLIMITED SUBTITLES */
+"Unlimited Subtitles" = "Korlátlan számú felirat";
+"Get Unlimited Subtitles" = "Szerezzen korlátlan feliratot";
+"Enable subtitles on all your FaceTime calls" = "A feliratok engedélyezése az összes FaceTime hívásnál";
+"Restore Purchases" = "Vásárlás visszaállítása";
+
+/* LIVE TRANSLATION */
+"Translation" = "Fordítás";
+"Live Translation" = "Élő fordítás";
+"Talk to anyone, in any language. Translate what other people are saying instantly!" = "Beszélj bárkivel, bármilyen nyelven. Fordítsd le mások mondatait azonnal!";
+"Every character that needs to be translated uses one token" = "Minden lefordított karakter elhasznál egy fordító tokent";
+"How many tokens do I need?" = "Mennyi tokenre van szükségem?";
+"Good morning" = "Jó reggelt";
+"Good afternoon" = "Jó napot";
+"Good evening" = "Jó estét";
+"Maybe Later" = "Talán később";
+"Your Tokens" = "Tokenjeid";
+"%@ tokens" = "%@ Token";
+"Trial Pack" = "Próba Csomag";
+"Small Pack" = "Kis Csomag";
+"Large Pack" = "Nagy Csomag";
+"Business Pack" = "Hatalmas Csomag";
+"Token Calculator" = "Token Számoló";
+"Words" = "Szó";
+"Words per minute" = "Szó percenként";
+"Characters" = "Karakter";
+"Characters per minute" = "Karakter percenként";
+"per minute" = "percenként";
+"per 30 minutes" = "30 percenként";
+"Start Calculator" = "Számláló indítása";
+"Stop Calculator" = "Számláló leállítása";
+"Start the calculator and speak at your normal pace to determine how many characters you speak in an average conversation." =  "Indítsd el a számlálót és beszélj a normális sebességeddel, hogy meghatározza a felhasznált karaktereid számát egy átlagos beszélgetésnél.";
+
+/* SUBTITLES PAGE */
+"Nobody has said anything yet" = "Még senki sem mondott semmit";
+"Subtitles will appear here when someone starts talking" = "A feliratok itt jelennek meg amikor valaki beszél";
+"Enable Translation" = "Fordítás bekapcsolása";
+"Disable Translation" = "Fordítás kikapcsolása";
+"Manage Languages" = "Nyelvek kezelése";
+"Get Translate Tokens" = "Fordító tokenek szerzése";
+"Tokens: %@" = "Token: %@";
+"Favorite Languages" = "Kedvenc nyelvek";
+"All languages" = "Minden nyelv";
+"Your favorites can quickly be selected from the language button" = "A kedvenceid gyorsan kiválaszthatók a nyelv gombra kattintva";
+"Stop SharePlay" = "SharePlay leállítása";
+"Disable Subtitles" = "Feliratok kikapcsolása";
+"Waiting for others to join" = "Várakozás mások csatlakozására";
+"Other people on the FaceTime call have to open Navi before their subtitles appear here." = "A másik embernek meg kell nyitnia a Navit a feliratok megjelenéséhez.";
+
+/* ERRORS */
+"Please try again later" = "Próbálja újra később";
+"Not enough translation tokens" = "Nincs elegendő fordító tokenje";
+"Get more" = "Több token";
+"Translation Error" = "Fordítási hiba";
+"No purchases could be found for your account" = "A fiókjához nem tartozik vásárlás";
