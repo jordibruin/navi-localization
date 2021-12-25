@@ -35,7 +35,7 @@
 "Navi uses Speech Recognition to generate subtitles. Please give access to Speech Recognition in your settings." = "सब्टाइटल बनाउनका लागि Navi ले स्पीच रिकग्निशनको प्रयोग गर्दछ। कृपया सेटिंग्सबाट स्पीच रिकग्निशन प्रयोग गर्ने अनुमति दिनुहोस्।";
 "Open Settings" = "सेटिंग्स खोल्नुहोस्";
 
-/* SKIP BUTOTN ON PERMISSION PAGE */
+/* SKIP BUTTON ON PERMISSION PAGE */
 "Skip" = "स्किप गर्नुहोस्";
 "Permissions" = "अनुमतिहरु";
 "Navi requires microphone and speech to text permission to create subtitles. Without it Navi won't work properly." = "सब्टाइटल बनाउनका लागि Navi लाई माइक्रोफोन र स्पीच-टु-टेक्स्टको अनुमति चाहिन्छ। सो अनुमति बिना Navi ले राम्ररी काम गर्न सक्दैन।";
