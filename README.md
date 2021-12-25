@@ -22,6 +22,6 @@ Thanks!
 | 🇭🇰 Chinese (Traditional) | Wing | [Twitter](https://twitter.com/WingCH2) | |
 | 🇳🇵 Nepali | Sagun Raj Lage | [Twitter](https://twitter.com/sagunraj) | 🙏 |
 | 🇧🇷 Portuguese (Brazil) | Ailton Vieira | [Twitter](https://twitter.com/ailtonvivaz) | 🤔 |
+| 🇵🇹 Portuguese (Portugal) | Jorge Rosado | [Twitter](https://twitter.com/theguy_69_) | 😎 |
 | 🇩🇰 Danish | Dinsen | [Twitter](https://twitter.com/brian.dinsen) | 🚀 |
 | 🇭🇺 Hungarian | Kristóf Kékesi| [Twitter](https://twitter.com/KristofKekesi) | 🥳 |
-
