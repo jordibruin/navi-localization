@@ -5,6 +5,7 @@ If you want to help me translate Navi please add a PR or send me a message on Tw
 Please translate the strings file in the app directory for the in-app strings.
 The support section contains only a few strings right now but I would appreciate it if you could translate those as well!
 
+I'm working on adding everyone to the world map!
 Thanks!
 
 
