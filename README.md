@@ -20,6 +20,7 @@ Thanks!
 | 🇪🇸 Spanish      | Luis | [Twitter](https://www.twitter.com/designaid_web)   | 
 | 🇹🇷 Turkish | Berkay Sargin | [Twitter](https://www.twitter.com/berkaey)  | 🦄
 | 🇭🇰 Chinese (Traditional) | Wing | [Twitter](https://twitter.com/WingCH2) | |
+| 🇳🇵 Nepali | Sagun Raj Lage | [Twitter](https://twitter.com/sagunraj) | 🙏 |
 | 🇧🇷 Portuguese (Brazil) | Ailton Vieira | [Twitter](https://twitter.com/ailtonvivaz) | 🤔 |
 | 🇩🇰 Danish | Dinsen | [Twitter](https://twitter.com/brian.dinsen) | 🚀 |
 | 🇭🇺 Hungarian | Kristóf Kékesi| [Twitter](https://twitter.com/KristofKekesi) | 🥳 |
