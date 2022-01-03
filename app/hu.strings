@@ -12,7 +12,7 @@
 /* what's your favorite emoji? (🥳) */
 
 /* ONBOARDING */
-"Get Started" = "Kezdés";
+"Get Started" = "Kezdésképp";
 "Allow" = "Engedélyezés";
 "Allowed" = "Engedélyezve";
 "Denied" = "Elutasítva";
@@ -50,7 +50,7 @@
 
 /* HOME SCREEN */
 "You're ready for your first call!" = "Készen állsz az első hívásodra!";
-"Invite your friends and call them with FaceTime to enable subtitles." = "Hívd meg a barátaidat és hívd őket FaceTime-on a feliratok engedélyezéséhez.";
+"Invite your friends and call them with FaceTime to enable subtitles." = "Hívd meg a barátaidat és hívd fel őket FaceTime-on a feliratok engedélyezéséhez.";
 "How to use Navi" = "A Navi használatáról";
 "Share" = "Megosztás";
 "Active FaceTime Call" = "FaceTime hívások aktiválása";
@@ -73,7 +73,7 @@
 "Translators" = "Fordítók";
 "Special thanks to" = "Külön köszönet";
 "Review Navi" = "Navi értékelése";
-"Show Onboarding" = "Bevezető oldalak";
+"Show Onboarding" = "Bevezető";
 "Subtitles" = "Feliratok";
 "Show own transcription" = "Saját átirat megjelenítése";
 "Large subtitles" = "Nagy feliratok";
