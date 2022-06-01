@@ -1,0 +1,26 @@
+/*
+  Localizable.strings
+  Navi
+
+  Created by Jordi Bruin on 08/12/2021.
+  
+*/
+
+/* TRANSLATOR NAME AND INFO, PLEASE FILL THIS IN SO I CAN ADD YOU TO THE MAP */
+/* Translator name (Joe Pham)*/
+/* What city and country do you live in (Toronto, Canada) */
+/* what's your favorite emoji? (💻) */
+
+/* SUPPORT ITEMS */
+
+"Start a FaceTime Call" = "Bắt đầu Cuộc gọi FaceTime";
+"Start a video or audio call using FaceTime with a friend, family member or business partner." = "Bắt đầu cuộc gọi thoại hoặc video đến bạn bè, người thân hoặc đồng nghiệp.";
+
+"Open Navi" = "Mở Navi";
+"While staying on the call, return to your homescreen and open Navi." = "Giữa cuộc gọi, hãy trở về màn hình chính và mở Navi.";
+
+"Enable Subtitles" = "Bật Phụ đề";
+"Tap the \"Enable Subtitles\" button to invite the other people on the FaceTime call to Navi." = "Chạm nút \"Bật Phụ đề\" để mời mọi người trong cuộc gọi FaceTime dùng Navi.";
+
+"Wait for others to join" = "Hãy chờ mọi người cùng tham gia";
+"The other people on the call will get a popup telling them to enable Shareplay, after which they can tap on \"Open\"." = "Mọi người trong cuộc gọi sẽ nhận tin nhắn báo bật SharePlay, sau đó họ cần chạm tiếp nút "\Mở\"".";

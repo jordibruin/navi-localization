@@ -1,0 +1,141 @@
+/*
+  Localizable.strings
+  Navi
+
+  Created by Jordi Bruin on 08/12/2021.
+  
+*/
+
+/* TRANSLATOR NAME AND INFO, PLEASE FILL THIS IN SO I CAN ADD YOU TO THE MAP */
+/* Translator name (Joe Pham)*/
+/* What city and country do you live in (Toronto, Canada) */
+/* what's your favorite emoji? (💻) */
+
+/* ONBOARDING */
+"Get Started" = "Bắt Đầu";
+"Allow" = "Cấp quyền";
+"Allowed" = "Đã cho phép";
+"Denied" = "Bị từ chối";
+"Continue" = "Tiếp tục";
+
+/* PERMISSIONS */
+"Microphone" = "Microphone";
+"Navi uses the microphone to listen to your voice when you are talking." = "Navi dựa vào microphone để lắng nghe nội dung bạn nói.";
+"Speech Recognition" = "Nhận diện Giọng nói";
+"Navi uses Speech recognition to convert your words into subtitles." = "Navi dùng Nhận diện Giọng nói để chuyển lời nói thành phụ đề.";
+
+/* MICROPHONE PERMISSION */
+"To record your sentences for creating subtitles" = "Để thu âm tiếng nói mà tạo được văn bản phụ đề";
+"Microphone Access Denied" = "Quyền truy cập Microphone bị từ chối";
+"Navi needs access to your microphone to generate subtitles. Please give access to your microphone in your settings." = "Navi cần quyền truy cập microphone để tạo văn bản từ lời nói. Vui lòng cấp quyền truy cập microphone trong phần cài đặt.";
+
+/* SPEECH RECOGNITION PERMISSION */
+"To convert what you are saying into subtitles" = "Để chuyển lời nói thành phụ đề";
+"Speech Recognition Denied" = "Nhận diện Giọng nói bị từ chối";
+"Navi uses Speech Recognition to generate subtitles. Please give access to Speech Recognition in your settings." = "Navi dùng Nhận diện Giọng nói để tạo phụ đề. Vui lòng cấp quyền cho Nhận diện Giọng nói trong phần cài đặt.";
+"Open Settings" = "Mở Cài đặt";
+
+/* SKIP BUTOTN ON PERMISSION PAGE */
+"Skip" = "Bỏ qua";
+"Permissions" = "Quyền truy cập";
+"Navi requires microphone and speech to text permission to create subtitles. Without it Navi won't work properly." = "Navi cần quyền truy cập microphone và giọng-nói-thành-văn-bản để tạo phụ đề. Không có chúng, Navi không thể hoạt động chính xác được.";
+"Skip anyway" = "Vẫn bỏ qua";
+
+/* DISPLAY NAME */
+"Display Name" = "Tên Hiển thị";
+"The name that is displayed alongside your subtitles" = "Tên gọi để hiển thị bên cạnh phụ đề của bạn";
+
+/* LANGAUGE */
+"The language that you will be talking in." = "Ngôn ngữ mà bạn sẽ giao tiếp.";
+
+/* HOME SCREEN */
+"You're ready for your first call!" = "Bạn sẵn sàng cho cuộc gọi đầu tiên rồi đấy!";
+"Invite your friends and call them with FaceTime to enable subtitles." = "Hãy mời bạn bè và gọi FaceTime với họ để bật phụ đề.";
+"How to use Navi" = "Cách dùng Navi";
+"Share" = "Chia sẻ";
+"Active FaceTime Call" = "Kích hoạt Cuộc gọi FaceTime";
+"Do you want to enable subtitles for this FaceTime call?" = "Bạn muốn bật phụ đề cho cuộc gọi FaceTime này chứ?";
+"Enable Subtitles" = "Bật Phụ đề";
+
+/* SUPPORT */
+"Support" = "Hỗ trợ";
+"How to enable subtitles" = "Cách bật phụ đề";
+"What languages are supported?" = "Ngôn ngữ nào được hỗ trợ?";
+"Navi works in %@" = "Navi hoạt động tốt với %@";
+"Privacy Policy" = "Chính sách Riêng tư";
+"You can read Navi's Privacy Policy [here](URL GOES HERE)" = "Bạn có thể đọc Chính sách Quyền riêng tư của Navi [ở đây](URL GOES HERE). Nói ngắn gọn, chúng tôi chỉ giữ lượng dữ liệu người dùng về bạn ở mức tối thiểu cần thiết.";
+"Email Us" = "Email cho Chúng tôi";
+
+/* SETTINGS */
+"Settings" = "Cài đặt";
+"Language" = "Ngôn ngữ";
+"Make sure the language matches the language you are speaking in, otherwise the generated subtitles will be inaccurate." = "Hãy để ý rằng ngôn ngữ được chọn ở đây chính là ngôn ngữ bạn nói trong cuộc gọi, bằng không phụ đề sẽ không hoạt động chính xác.";
+"Translators" = "Các dịch giả";
+"Special thanks to" = "Lời cảm ơn chân thành đến";
+"Review Navi" = "Đánh giá Navi";
+"Show Onboarding" = "Hiện MH Làm quen";
+"Subtitles" = "Phụ đề";
+"Show own transcription" = "Hiện lời nói của tôi";
+"Large subtitles" = "Phụ đề cỡ Lớn";
+"Display your own transcription and choose the size of the incoming subtitles." = "Hiển thị bản chép lời nói của bạn và chọn cỡ chữ cho phụ đề nội dung nói.";
+"Translation" = "Thông dịch";
+"Live Translation" = "Dịch Trực tiếp";
+"Translation Tokens" = "Tiền xu Thông dịch";
+"Realtime Translation" = "Dịch theo Thời gian thực";
+"Translate subtitles as soon as they come in. This requires a lot more Translation Tokens." = "Dịch thuật phụ đề nội dung nói ngay sau khi nói. Tính năng này cần dùng nhiều Xu Thông dịch hơn.";
+
+/* UNLIMITED SUBTITLES */
+"Unlimited Subtitles" = "Unlimited Subtitles";
+"Get Unlimited Subtitles" = "Get Unlimited Subtitles";
+"Enable subtitles on all your FaceTime calls" = "Enable subtitles on all your FaceTime calls";
+"Restore Purchases" = "Restore Purchases";
+
+/* LIVE TRANSLATION */
+"Translation" = "Thông dịch";
+"Live Translation" = "Dịch Trực tiếp";
+"Talk to anyone, in any language. Translate what other people are saying instantly!" = "Trò chuyện với bất cứ ai bằng bất kì ngôn ngữ nào. Dịch nội dung người khác nói ngay tức thì!";
+"Every character that needs to be translated uses one token" = "Mỗi kí tự cần dịch sẽ tốn 1 xu";
+"How many tokens do I need?" = "Tôi cần bao nhiêu xu?";
+"Good morning" = "Chào buổi sáng";
+"Good afternoon" = "Chào buổi chiều";
+"Good evening" = "Chào buổi tối";
+"Maybe Later" = "Để sau";
+"Your Tokens" = "Xu của Bạn";
+"%@ tokens" = "%@ Xu";
+"Trial Pack" = "Gói Dùng thử";
+"Small Pack" = "Gói Nhỏ";
+"Large Pack" = "Gói Lớn";
+"Business Pack" = "Gói Khủng";
+"Token Calculator" = "Máy tính Xu";
+"Words" = "Từ";
+"Words per minute" = "Từ/phút";
+"Characters" = "Kí tự";
+"Characters per minute" = "Kí tự/phút";
+"per minute" = "mỗi phút";
+"per 30 minutes" = "mỗi 30 phút";
+"Start Calculator" = "Chạy Máy tính";
+"Stop Calculator" = "Dừng Máy tính";
+"Start the calculator and speak at your normal pace to determine how many characters you speak in an average conversation." =  "Chạy máy tính và bắt đầu nói với tốc độ bạn thường nói để ước lượng trung bình chung số kí tự bạn nói trong một cuộc gọi.";
+
+/* SUBTITLES PAGE */
+"Nobody has said anything yet" = "Chưa có ai nói gì cả";
+"Subtitles will appear here when someone starts talking" = "Phụ đề sẽ hiển thị ở đây khi có người bắt đầu nói";
+"Enable Translation" = "Bật Dịch thuật";
+"Disable Translation" = "Tắt Dịch thuật";
+"Manage Languages" = "Quản lí Ngôn ngữ";
+"Get Translate Tokens" = "Nhận thêm Token Dịch thuật";
+"Tokens: %@" = "Tokens: %@";
+"Favorite Languages" = "Ngôn ngữ Yêu thích";
+"All languages" = "Tất cả Ngôn ngữ";
+"Your favorites can quickly be selected from the language button" = "Nhanh chóng chọn ngôn ngữ yêu thích từ nút ngôn ngữ";
+"Stop SharePlay" = "Dừng SharePlay";
+"Disable Subtitles" = "Tắt Phụ đề";
+"Waiting for others to join" = "Đang chờ mọi người tham gia";
+"Other people on the FaceTime call have to open Navi before their subtitles appear here." = "Những người khác trong cuộc gọi FaceTime cũng cần mở Navi để hiển thị phụ đề của họ ở đây.";
+
+/* ERRORS */
+"Please try again later" = "Vui lòng thử lại sau";
+"Not enough translation tokens" = "Không đủ số xu dịch thuật";
+"Get more" = "Mua thêm";
+"Translation Error" = "Lỗi Dịch thuật";
+"No purchases could be found for your account" = "Không tìm được giao dịch từ tài khoản của bạn";
